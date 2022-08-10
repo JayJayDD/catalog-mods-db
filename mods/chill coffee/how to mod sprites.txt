@@ -1,0 +1,10 @@
+
+in order to chang the animations first find or make a gif and go to 
+https://ezgif.com/gif-to-sprite
+once you modify the gif so there are only 6 frames you then go to make the sprite sheet.
+on that site make shore that columns are set to 3
+width is set to 600
+height is set to 800
+margin around tiles is set to 1px
+
+Then all you do is name it the same name as one of the existing pngs to replace that part with the animations that you want.

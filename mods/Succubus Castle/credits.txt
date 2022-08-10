@@ -1,0 +1,8 @@
+[CREDITS]
+mod_title = "Succubus Castle"
+mod_creator : "Ruka"
+song_artist = "Qumu"
+song_title = "Ghost Gulping(Electro Swing Remix) - Paper Mario"
+Art : Succubus Farm - Dieselmine
+Background Art: "Interior - Angelo Person"
+SFX : Originally from KomDog's mod
