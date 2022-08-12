@@ -24,3 +24,4 @@ download_type: <string discord||mega> - download link type mostly used as a cosm
 status: <string finished||unfinished> - status of the mod (unused)
 tags: <string> - mod tags with no spaces commas used as a separator
 ```
+test
