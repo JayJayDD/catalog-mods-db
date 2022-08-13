@@ -1,23 +1,5 @@
 [
 	{
-		"id": 260,
-		"folder": "test",
-		"name": "Nagatoro(HARD)",
-		"mod_title": "Nagatoro(HARD)",
-		"mod_creator": "El Primo",
-		"mod_artist": "El Primo",
-		"song_artist": "USAO",
-		"song_title": "Big Daddy (Maimai ver)",
-		"length": "2:32",
-		"bpm": "190",
-		"preview_imgs": "loop1.png",
-		"thumb_img": "thumb.png",
-		"release_date": "2022-08-12",
-		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1007747310429675621/NagatoroHARD.zip",
-		"download_type": "discord",
-		"tags": "anime,reskin"
-	},
-	{
 		"id": 259,
 		"folder": "Nagatoro(HARD)",
 		"name": "Nagatoro(HARD)",
