@@ -6,7 +6,7 @@ Actual repo where the catalog fetches the assets and the `db.json` from
 > *How `db.json` is structured?*
 
 ```
-id: <int> - magic key index (unused)
+id: <int> - magic key index
 folder: <string> - mod root folder
 name: <string> - basic internal name for the mod (unused)
 mod_title: <string> - name of the mod
