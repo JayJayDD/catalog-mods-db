@@ -1,5 +1,24 @@
 [
 	{
+		"id": 270,
+		"folder": "00_Tiffy_Cheesecake",
+		"name": "00_Tiffy_Cheesecake",
+		"mod_title": "Tiffy Cheesecake",
+		"mod_creator": "Randumb",
+		"mod_artist": "KomDog",
+		"song_artist": "Honeypie",
+		"song_title": "JAWNY",
+		"length": "2:30",
+		"bpm": "115",
+		"preview_imgs": "loop0.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-08-19",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1010102164238123038/00_Tiffy_Cheesecake.zip",
+		"download_type": "discord",
+		"tags": "reskin, anime",
+		"category": "0"
+	},
+	{
 		"id": 269,
 		"folder": "Diane Foxington (Newcro)",
 		"name": "Diane Foxington (Newcro)",
