@@ -1,5 +1,24 @@
 [
 	{
+		"id": 271,
+		"folder": "Stuff-N-MalO",
+		"name": "Stuff n MalO",
+		"mod_title": "Stuff n MalO",
+		"mod_creator": "Ren",
+		"mod_artist": "Ren",
+		"song_artist": "Deadmau5",
+		"song_title": "Ghosts n Stuff",
+		"length": "1;37",
+		"bpm": "115",
+		"preview_imgs": "Ride1.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-08-19",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1010054311671242845/Stuff-N-MalO-20220819T051217Z-001.zip",
+		"download_type": "discord",
+		"tags": "furry,re-release",
+		"category": "0"
+	},
+	{
 		"id": 270,
 		"folder": "00_Tiffy_Cheesecake",
 		"name": "00_Tiffy_Cheesecake",
