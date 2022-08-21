@@ -1,5 +1,24 @@
 [
 	{
+		"id": 274,
+		"folder": "Toriel's Heartache",
+		"name": "Toriel's Heartache",
+		"mod_title": "Toriel's Heartache",
+		"mod_creator": "QTree",
+		"mod_artist": "KomDog/Various",
+		"song_artist": "Toby Fox/SiIvaGunner",
+		"song_title": "Heartache (Alpha Mix)",
+		"length": "2:26",
+		"bpm": "120",
+		"preview_imgs": "00standard.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-08-21",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1010860080201203792/Toriels_Heartache.rar",
+		"download_type": "discord",
+		"tags": "undertale,furry,rechart",
+		"category": "0"
+	},
+	{
 		"id": 273,
 		"folder": "Shota-kun's 18th Birthday",
 		"name": "Shota-kun's 18th Birthday",
