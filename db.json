@@ -1,5 +1,24 @@
 [
 	{
+		"id": 278,
+		"folder": "Alt-Rosalina -8",
+		"name": "Alt-Rosalina -8",
+		"mod_title": "Alt-Rosalina -8",
+		"mod_creator": "Six",
+		"mod_artist": "Minuspal",
+		"song_artist": "VGR",
+		"song_title": "Star Theme Remix",
+		"length": "2:36",
+		"bpm": "128",
+		"preview_imgs": "2.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-08-22",
+		"download_link": "https://mega.nz/file/4JJUVIRB#DGtVOjiAjANrIjyTqmAvP_oPJtbHoqNHciV0VIJPapo",
+		"download_type": "discord",
+		"tags": "undertale,furry,reskin,dialogue",
+		"category": "0"
+	},
+	{
 		"id": 277,
 		"folder": "Toriel (Newcro)[Easy]",
 		"name": "Toriel (Newcro)[Easy]",
@@ -15,7 +34,7 @@
 		"release_date": "2022-08-21",
 		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1010970705258623026/Toriel_NewcroEasy.rar",
 		"download_type": "discord",
-		"tags": "undertale,furry,reskin,dialoge",
+		"tags": "undertale,furry,reskin,dialogue",
 		"category": "0"
 	},
 	{
