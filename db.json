@@ -1,5 +1,24 @@
 [
 	{
+		"id": 279,
+		"folder": "Muffet's Wood",
+		"name": "Muffet's Wood",
+		"mod_title": "Muffet's Wood",
+		"mod_creator": "QTree",
+		"mod_artist": "Madd-Modd",
+		"song_artist": "Takaski Tateiski/SiIvaGunner",
+		"song_title": "Wood Man Stage (In-Game Version) - Mega Man 2",
+		"length": "1:38",
+		"bpm": "180",
+		"preview_imgs": "Still Intro.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-08-22",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1011217117783261195/Muffets_Wood.rar",
+		"download_type": "discord",
+		"tags": "undertale,original art",
+		"category": "0"
+	},
+	{
 		"id": 278,
 		"folder": "Alt-Rosalina -8",
 		"name": "Alt-Rosalina -8",
