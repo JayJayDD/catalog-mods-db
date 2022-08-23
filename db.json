@@ -1,5 +1,24 @@
 [
 	{
+		"id": 280,
+		"folder": "Toriel's Dirty Secret",
+		"name": "Toriel's Dirty Secret",
+		"mod_title": "Toriel's Dirty Secret",
+		"mod_creator": "QTree",
+		"mod_artist": "Komdog/Just Kinda/Various",
+		"song_artist": "Revolvr & Lea Luna",
+		"song_title": "Dirty Secret",
+		"length": "4:17",
+		"bpm": "126",
+		"preview_imgs": "00eyesdownblush.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-08-23",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1011536985678164019/Toriels_Dirty_Secret.rar",
+		"download_type": "discord",
+		"tags": "undertale,reskin,rechart",
+		"category": "0"
+	},
+	{
 		"id": 279,
 		"folder": "Muffet's Wood",
 		"name": "Muffet's Wood",
