@@ -1,5 +1,24 @@
 [
 	{
+		"id": 281,
+		"folder": "Uzaki Clutch",
+		"name": "Uzaki-Chan Wants to Talk!",
+		"mod_title": "Uzaki-Chan Wants to Talk!",
+		"mod_creator": "El Primo",
+		"mod_artist": "El Primo",
+		"song_artist": "Clutch",
+		"song_title": "STRLGHT",
+		"length": "2:39",
+		"bpm": "126",
+		"preview_imgs": "loop1.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-08-23",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1011750357803737148/Uzaki-chan_Wants_to_Talk.zip",
+		"download_type": "discord",
+		"tags": "anime,reskin,dialogue,rechart",
+		"category": "0"
+	},
+	{
 		"id": 280,
 		"folder": "Toriel's Dirty Secret",
 		"name": "Toriel's Dirty Secret",
