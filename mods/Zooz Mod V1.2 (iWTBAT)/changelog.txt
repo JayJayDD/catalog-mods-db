@@ -1,0 +1,16 @@
+ZOOZ MOD CHANGELOG
+
+V1.0.1 (May 25, 2021)
+- overlaid the Cum FX over the Cum Loop Animation and then renamed it as "cumfx.png"
+- changed "cum.png" to a blank sprite sheet
+
+V1.1 (May 31, 2021)
+- made mod compatible with the latest public release (1.0)
+
+V1.1.1 (July 17, 2021)
+- added credits.txt file
+
+V1.2 (September 29, 2021)
+- edited some stuff for v1.311 of Beat Banger such as chart format
+- fixed the cum fx sprite sheet
+- added tambourine sounds to "match the feel of the demo"
