@@ -1,5 +1,24 @@
 [
 	{
+		"id": 294,
+		"folder": "Nikku",
+		"name": "Nikku",
+		"mod_title": "Devant Mod",
+		"mod_creator": "JO",
+		"mod_artist": "JO",
+		"song_artist": "Saruky",
+		"song_title": "Hyperfunk",
+		"length": "2:55",
+		"bpm": "136",
+		"preview_imgs": "loop1.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-08-30",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1013989301446525040/Nikku.zip",
+		"download_type": "discord",
+		"tags": "reskin,fnf",
+		"category": "0"
+	},
+	{
 		"id": 293,
 		"folder": "Devant Mod V1.0 (iWTBAT)",
 		"name": "Devant Mod",
