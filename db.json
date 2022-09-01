@@ -1,5 +1,24 @@
 [
 	{
+		"id": 298,
+		"folder": "Tower of FantASSy",
+		"name": "Tower of FantASSy",
+		"mod_title": "Tower of FantASSy",
+		"mod_creator": "Ozrenol",
+		"mod_artist": "Various",
+		"song_artist": "Wishful Simping",
+		"song_title": "Yu's Theme",
+		"length": "6:20",
+		"bpm": "128",
+		"preview_imgs": "start.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-01",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1014933545443147816/Tower_of_FantASSy.zip",
+		"download_type": "discord",
+		"tags": "reskin,furry,anime,undertale,voicebank",
+		"category": "0"
+	},
+	{
 		"id": 297,
 		"folder": "Rouge's Pumpkin [Side B]",
 		"name": "Rouge's Pumpkin [Side B]",
@@ -2684,7 +2703,7 @@
 		"name": "Mileena Mod (by Timekss)",
 		"mod_title": "Mileena Mod",
 		"mod_creator": "Peacekeeper Timekss",
-		"mod_artist": "Varios artist",
+		"mod_artist": "Various artist",
 		"song_artist": "Komdog",
 		"song_title": "Dinosaur",
 		"length": "2:37",
