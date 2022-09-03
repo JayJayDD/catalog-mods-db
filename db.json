@@ -1,5 +1,24 @@
 [
 	{
+		"id": 317,
+		"folder": "Kobold_Bounce",
+		"name": "Kobold Bounce",
+		"mod_title": "Kobold Bounce",
+		"mod_creator": "Sludgie",
+		"mod_artist": "Sludgie",
+		"song_artist": "Carpenter Brut",
+		"song_title": "Le Perv",
+		"length": "1:52",
+		"bpm": "120",
+		"preview_imgs": "behind_prod.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-03",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1015702572125913238/Kobold_Bounce.zip",
+		"download_type": "discord",
+		"tags": "reskin,furry,scalie",
+		"category": "0"
+	},
+	{
 		"id": 316,
 		"folder": "Decnot - Isabelle",
 		"name": "Isabelle Minus8",
@@ -110,7 +129,7 @@
 		"release_date": "2022-09-03",
 		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1015393788417560648/Decnot_-_Cinder_Spyro.zip",
 		"download_type": "discord",
-		"tags": "reskin,dragon,re-release",
+		"tags": "reskin,scalie,re-release",
 		"category": "0"
 	},
 	{
@@ -2238,7 +2257,7 @@
 		"release_date": "2022-06-22",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/989084648091025408/Jade_Newcro.rar",
 		"download_type": "discord",
-		"tags": "furry,original art,S-Tier",
+		"tags": "furry,original art,scalie,S-Tier",
 		"category": "0"
 	},
 	{
