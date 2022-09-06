@@ -1,6 +1,6 @@
 [
 	{
-		"id": 325,
+		"id": 324,
 		"folder": "Bob",
 		"name": "Bob",
 		"mod_title": "Bob",
@@ -16,25 +16,6 @@
 		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1016770575017971762/Bob.zip",
 		"download_type": "discord",
 		"tags": "reskin,fnf,gay",
-		"category": "0"
-	},
-	{
-		"id": 324,
-		"folder": "Kazotsky Kick TF2",
-		"name": "TF2 kazotsky kick",
-		"mod_title": "TF2 kazotsky kick",
-		"mod_creator": "Demoblunt",
-		"mod_artist": "Demoblunt",
-		"song_artist": "Valve",
-		"song_title": "Soldier Of Dance",
-		"length": "1:09",
-		"bpm": "146",
-		"preview_imgs": "prod.png",
-		"thumb_img": "thumb.png",
-		"release_date": "2022-09-06",
-		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1016559977294471189/Kazotsky_Kick_TF2.zip",
-		"download_type": "discord",
-		"tags": "original art,joke mod",
 		"category": "0"
 	},
 	{
