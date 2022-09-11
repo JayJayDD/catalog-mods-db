@@ -1,5 +1,23 @@
 [
 	{
+		"id": 339,
+		"folder": "Illulu",
+		"mod_title": "Illulu",
+		"mod_creator": "El Primo",
+		"mod_artist": "El Primo",
+		"song_artist": "Boneless",
+		"song_title": "Steve Aoki, Chris Lake & Tujamo",
+		"length": "3:45",
+		"bpm": "128",
+		"preview_imgs": "loop0.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-11",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1018440609167589396/Illulu.zip",
+		"download_type": "discord",
+		"tags": "anime,reskin,voicebank",
+		"category": "0"
+	},
+	{
 		"id": 338,
 		"folder": "Lotte",
 		"mod_title": "Lotte's Tape",
