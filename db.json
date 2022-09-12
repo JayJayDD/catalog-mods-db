@@ -1,4 +1,22 @@
 [
+        {
+		"id": 340,
+		"folder": "Bucket king",
+		"mod_title": "Bucket King",
+		"mod_creator": "Thornn",
+		"mod_artist": "Thornn",
+		"song_artist": "Komdog",
+		"song_title": "Dinosaur",
+		"length": "2:37",
+		"bpm": "140",
+		"preview_imgs": "Bounce.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-12",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1018689763013840926/Bucket_King.rar",
+		"download_type": "discord",
+		"tags": "original art",
+		"category": "0"
+	},
 	{
 		"id": 339,
 		"folder": "Illulu",
