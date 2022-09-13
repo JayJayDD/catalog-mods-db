@@ -1,5 +1,23 @@
 [
 	{
+		"id": 343,
+		"folder": "Tsurugi Kyousuke",
+		"mod_title": "Tsurugi Kyousuke",
+		"mod_creator": "Waffles.exe",
+		"mod_artist": "Nenna",
+		"song_artist": "JOYRYDE",
+		"song_title": "GOT REAL",
+		"length": "2:20",
+		"bpm": "128",
+		"preview_imgs": "Kyousuke1-1.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-13",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1019064084282482778/Tsurugi_Kyousuke.rar",
+		"download_type": "discord",
+		"tags": "anime,repurposed art",
+		"category": "0"
+	},			
+	{
 		"id": 342,
 		"folder": "Bucket Fucking",
 		"mod_title": "Bucket Fucking",
