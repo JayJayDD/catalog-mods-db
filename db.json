@@ -1,5 +1,22 @@
 [
 	{
+		"id": 344,
+		"folder": "Tsurugi Kyousuke",
+		"mod_title": "ClockWork (Blood Warning)",
+		"mod_creator": "Thornn",
+		"mod_artist": "Thornn",
+		"song_artist": "Tokyo Machine",
+		"song_title": "PLAY",
+		"length": "3:04",
+		"bpm": "128",
+		"preview_imgs": "face_prod.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-13",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1019248250445889556/ClockWork.rar",
+		"download_type": "discord",
+		"tags": "original art,oc,spooky",
+		"category": "0"
+	},		{
 		"id": 343,
 		"folder": "Tsurugi Kyousuke",
 		"mod_title": "Tsurugi Kyousuke",
