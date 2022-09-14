@@ -1,5 +1,23 @@
 [
 	{
+		"id": 345,
+		"folder": "Zonk - Gatorpup",
+		"mod_title": "Zonk - GatorPup",
+		"mod_creator": "Soven",
+		"mod_artist": "ZonkPunch",
+		"song_artist": "Owl Vision",
+		"song_title": "Holy Sh*t",
+		"length": "4:27",
+		"bpm": "109",
+		"preview_imgs": "1.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-14",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1019614784095789136/Zonk_-_Gatorpup.7z",
+		"download_type": "discord",
+		"tags": "repurposed art",
+		"category": "0"
+	},	
+	{
 		"id": 344,
 		"folder": "ClockWork",
 		"mod_title": "ClockWork (Blood Warning)",
@@ -16,7 +34,8 @@
 		"download_type": "discord",
 		"tags": "original art,oc,spooky",
 		"category": "0"
-	},		{
+	},
+	{
 		"id": 343,
 		"folder": "Tsurugi Kyousuke",
 		"mod_title": "Tsurugi Kyousuke",
