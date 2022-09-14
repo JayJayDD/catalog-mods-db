@@ -1,5 +1,23 @@
 [
 	{
+		"id": 346,
+		"folder": "Minus_GF_Remastered",
+		"mod_title": "Minus GF Remaster",
+		"mod_creator": "JO",
+		"mod_artist": "JO",
+		"song_artist": "PlumJamSpam",
+		"song_title": "Sex (House Mix)-Beat Banger Baddies",
+		"length": "1:47",
+		"bpm": "126",
+		"preview_imgs": "prodin.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-14",
+		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1019707588667002991/Minus_GF_Remastered.zip",
+		"download_type": "discord",
+		"tags": "reskin,fnf,voicebank",
+		"category": "0"
+	},	
+	{
 		"id": 345,
 		"folder": "Zonk - Gatorpup",
 		"mod_title": "Zonk - GatorPup",
