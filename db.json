@@ -1,5 +1,23 @@
 [
 	{
+		"id": 348,
+		"folder": "Flare (Newcro)[Demo]",
+		"mod_title": "Flare (Newcro)[Demo]",
+		"mod_creator": "Newcro",
+		"mod_artist": "Newcro",
+		"song_artist": "Komdog",
+		"song_title": "Judy Demo Song",
+		"length": "028",
+		"bpm": "128",
+		"preview_imgs": "1.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-16",
+		"download_link": "https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Flare_NewcroDemo.rar",
+		"download_type": "github",
+		"tags": "furry,oc,demo",
+		"category": "0"
+	},			
+	{
 		"id": 347,
 		"folder": "Zonk - Bluefur",
 		"mod_title": "Zonk - Bluefur",
@@ -8,7 +26,7 @@
 		"song_artist": "KAEN DYSSO",
 		"song_title": "Get Low (Original Mix)",
 		"length": "4:07",
-		"bpm": "126",
+		"bpm": "100",
 		"preview_imgs": "1.png",
 		"thumb_img": "thumb.png",
 		"release_date": "2022-09-16",
@@ -716,7 +734,7 @@
 		"release_date": "2022-09-03",
 		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1015388706913386576/Anon_-_Sploot.zip",
 		"download_type": "discord",
-		"tags": "reskin,oc,re-release",
+		"tags": "reskin,oc,re-release,demo",
 		"category": "0"
 	},
 	{
