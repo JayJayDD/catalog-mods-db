@@ -2120,7 +2120,7 @@
 		"release_date": "2022-08-03",
 		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1004381514617852035/Ms.chalice_voiced.zip",
 		"download_type": "discord",
-		"tags": "reskin",
+		"tags": "reskin,voicebank",
 		"category": "0"
 	},
 	{
@@ -2624,7 +2624,7 @@
 		"release_date": "2022-07-03",
 		"download_link": "https://www.mediafire.com/file/dmv84429onhfqmv/jackvoiced.7z/file",
 		"download_type": "mediafire",
-		"tags": "furry,rechart,gay",
+		"tags": "furry,rechart,gay,voicebank",
 		"category": "0"
 	},
 	{
@@ -2840,7 +2840,7 @@
 		"release_date": "2022-06-18",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/987516850441170984/Lucoa_Parties_Everyday.zip",
 		"download_type": "discord",
-		"tags": "anime",
+		"tags": "anime,reskin",
 		"category": "0"
 	},
 	{
@@ -2912,7 +2912,7 @@
 		"release_date": "2022-06-17",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/987276456117800960/Sex_Machine.zip",
 		"download_type": "discord",
-		"tags": "anime",
+		"tags": "anime,repurposed art",
 		"category": "0"
 	},
 	{
@@ -3002,7 +3002,7 @@
 		"release_date": "2022-06-15",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/986482841313484810/Succubus_Castle.zip",
 		"download_type": "discord",
-		"tags": "anime",
+		"tags": "anime,repurposed art",
 		"category": "0"
 	},
 	{
@@ -3020,7 +3020,7 @@
 		"release_date": "2022-06-14",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/986178763391914056/Succubus1.0.zip",
 		"download_type": "discord",
-		"tags": "anime",
+		"tags": "anime,repurposed art",
 		"category": "0"
 	},
 	{
@@ -3056,7 +3056,7 @@
 		"release_date": "2022-06-13",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/985989378306371605/Daestra_v2.zip",
 		"download_type": "discord",
-		"tags": "furry,futa",
+		"tags": "furry,futa,repurposed art",
 		"category": "0"
 	},
 	{
@@ -3200,7 +3200,7 @@
 		"release_date": "2022-06-08",
 		"download_link": "https://mega.nz/folder/vhhnkY5B#CCH9qz-fqQRTPqVHSVAElw",
 		"download_type": "mega",
-		"tags": "furry,S-Tier",
+		"tags": "reskin,furry,S-Tier",
 		"category": "0"
 	},
 	{
@@ -3218,7 +3218,7 @@
 		"release_date": "2022-06-08",
 		"download_link": "https://mega.nz/folder/vhhnkY5B#CCH9qz-fqQRTPqVHSVAElw",
 		"download_type": "mega",
-		"tags": "furry",
+		"tags": "reskin,furry",
 		"category": "0"
 	},
 	{
@@ -3290,7 +3290,7 @@
 		"release_date": "2022-06-07",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/983542158567038987/Beta_X_Mean_BF.zip",
 		"download_type": "discord",
-		"tags": "fnf,gay",
+		"tags": "fnf,gay,reskin",
 		"category": "0"
 	},
 	{
@@ -3740,7 +3740,7 @@
 		"release_date": "2022-05-09",
 		"download_link": "https://mega.nz/file/9whHWTiC#q0xGTHXecQprRWhTKCl61ZNH8SBTV5duN5w5RTV7QQc",
 		"download_type": "mega",
-		"tags": "furry,compilation",
+		"tags": "repurposed art,furry,compilation",
 		"category": "0"
 	},
 	{
@@ -3758,7 +3758,7 @@
 		"release_date": "2022-05-08",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/972925989896204338/Daestra.zip",
 		"download_type": "discord",
-		"tags": "furry,futa",
+		"tags": "repurposed art,cfurry,futa",
 		"category": "0"
 	},
 	{
@@ -3775,7 +3775,7 @@
 		"thumb_img": null,
 		"release_date": "2022-05-07",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/972413056040697906/Sophie_Walten_voiced.zip",
-		"download_type": "discord",
+		"download_type": "discord,voicebank",
 		"tags": "human",
 		"category": "0"
 	},
@@ -3794,7 +3794,7 @@
 		"release_date": "2022-05-07",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/972413056917319740/Noelle_Holiday_voiced.zip",
 		"download_type": "discord",
-		"tags": "undertale,furry",
+		"tags": "undertale,reskin,furry,voicebank",
 		"category": "0"
 	},
 	{
@@ -3848,7 +3848,7 @@
 		"release_date": "2022-05-05",
 		"download_link": "https://mega.nz/file/8sInlLYR#_Ox89fxTk6Tzw_OtyGxY_f_jV6uuBTlcSsgjrYHxQUU",
 		"download_type": "mega",
-		"tags": "anime,compilation",
+		"tags": "repurposed art,anime,compilation",
 		"category": "0"
 	},
 	{
@@ -3902,7 +3902,7 @@
 		"release_date": "2022-05-01",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/970154394475712563/Fairy_Levianthan.rar",
 		"download_type": "discord",
-		"tags": "anime",
+		"tags": "anime,reskin",
 		"category": "0"
 	},
 	{
@@ -3920,7 +3920,7 @@
 		"release_date": "2022-04-30",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/969805655428988969/BeatFunkinV1.zip",
 		"download_type": "discord",
-		"tags": "fnf",
+		"tags": "fnf,reskin",
 		"category": "0"
 	},
 	{
@@ -3938,7 +3938,7 @@
 		"release_date": "2022-04-30",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/969805655428988969/BeatFunkinV1.zip",
 		"download_type": "discord",
-		"tags": "fnf",
+		"tags": "fnf,reskin",
 		"category": "0"
 	},
 	{
@@ -3956,7 +3956,7 @@
 		"release_date": "2022-04-30",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/969805655428988969/BeatFunkinV1.zip",
 		"download_type": "discord",
-		"tags": "fnf",
+		"tags": "fnf,reskin",
 		"category": "0"
 	},
 	{
@@ -3974,7 +3974,7 @@
 		"release_date": "2022-04-30",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/969805655428988969/BeatFunkinV1.zip",
 		"download_type": "discord",
-		"tags": "fnf",
+		"tags": "fnf,reskin",
 		"category": "0"
 	},
 	{
@@ -3992,7 +3992,7 @@
 		"release_date": "2022-04-30",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/969805655428988969/BeatFunkinV1.zip",
 		"download_type": "discord",
-		"tags": "fnf,furry",
+		"tags": "fnf,furry,reskin",
 		"category": "0"
 	},
 	{
@@ -4010,7 +4010,7 @@
 		"release_date": "2022-04-30",
 		"download_link": "https://mega.nz/file/1hZxTY6T#VS6folJ_7SerV4C4ZDNPeXzFsTFoFaDEn8rhV_xNpGk",
 		"download_type": "mega",
-		"tags": "fnf",
+		"tags": "fnf,repurposed art",
 		"category": "0"
 	},
 	{
@@ -4100,7 +4100,7 @@
 		"release_date": "2022-04-28",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/969018106766848010/Demonic_Toriel_Wonderland_Ver.zip",
 		"download_type": "discord",
-		"tags": "furry,undertale,rechart",
+		"tags": "furry,undertale,rechart,reskin",
 		"category": "0"
 	},
 	{
@@ -4118,7 +4118,7 @@
 		"release_date": "2022-04-28",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/969184829914632242/Blaster_Master_-_Juicy_Kanna.zip",
 		"download_type": "discord",
-		"tags": "anime,rechart",
+		"tags": "anime,rechart,reskin",
 		"category": "0"
 	},
 	{
@@ -4154,7 +4154,7 @@
 		"release_date": "2022-04-24",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/967652080120660018/Princess_Ruto.rar",
 		"download_type": "discord",
-		"tags": "fish people",
+		"tags": "reskin,scalie",
 		"category": "0"
 	},
 	{
@@ -4190,7 +4190,7 @@
 		"release_date": "2022-04-23",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/967267194020962384/Noelle_Holiday.rar",
 		"download_type": "discord",
-		"tags": "furry,S-Tier,undertale",
+		"tags": "furry,reskin,S-Tier,undertale",
 		"category": "0"
 	},
 	{
@@ -4208,7 +4208,7 @@
 		"release_date": "2022-04-23",
 		"download_link": "https://mega.nz/file/hpVBFJCa#0vR5Ji1eA9gl27oyN2ydFx189GK543NKQ0dqxYsGz20",
 		"download_type": "mega",
-		"tags": "anime,rechart",
+		"tags": "anime,rechart,reskin",
 		"category": "0"
 	},
 	{
@@ -4226,7 +4226,7 @@
 		"release_date": "2022-04-23",
 		"download_link": "https://mega.nz/file/hpVBFJCa#0vR5Ji1eA9gl27oyN2ydFx189GK543NKQ0dqxYsGz20",
 		"download_type": "mega",
-		"tags": "anime",
+		"tags": "anime,reskin",
 		"category": "0"
 	},
 	{
@@ -4316,7 +4316,7 @@
 		"release_date": "2022-04-18",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/965457972979441764/HoodedSyrana.zip",
 		"download_type": "discord",
-		"tags": "original art,dialogue",
+		"tags": "original art,oc,dialogue",
 		"category": "0"
 	},
 	{
@@ -4478,7 +4478,7 @@
 		"release_date": "2022-04-11",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/963061438396649482/Demonic_Toriel_Horse_Alt_Song.zip",
 		"download_type": "discord",
-		"tags": "reskin,furry,undertale",
+		"tags": "reskin,furry,undertale,reskin",
 		"category": "0"
 	},
 	{
@@ -4586,7 +4586,7 @@
 		"release_date": "2022-04-04",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/960312249610825739/Funky_Rabbit.rar",
 		"download_type": "discord",
-		"tags": "fnf,furry",
+		"tags": "fnf,furry,reskin",
 		"category": "0"
 	},
 	{
@@ -4694,7 +4694,7 @@
 		"release_date": "2022-03-29",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/958351183762829344/Pandaren_V_Newcro_Tattoo.rar",
 		"download_type": "discord",
-		"tags": "furry,S-Tier,reskin,dialogue",
+		"tags": "original art,furry,S-Tier,reskin,dialogue",
 		"category": "0"
 	},
 	{
@@ -4712,7 +4712,7 @@
 		"release_date": "2022-03-29",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/958351184895303710/Pandaren_V_Newcro_BB.rar",
 		"download_type": "discord",
-		"tags": "furry,S-Tier,reskin,dialogue",
+		"tags": "original art,furry,S-Tier,reskin,dialogue",
 		"category": "0"
 	},
 	{
@@ -4730,7 +4730,7 @@
 		"release_date": "2022-03-27",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/957484134241017897/Lucoa-Dragon_Maid_OP.zip",
 		"download_type": "discord",
-		"tags": "anime",
+		"tags": "anime,reskin",
 		"category": "0"
 	},
 	{
@@ -4946,7 +4946,7 @@
 		"release_date": "2022-02-21",
 		"download_link": "https://cdn.discordapp.com/attachments/908263297025978399/945356972453138432/Amy_Rose.zip",
 		"download_type": "discord",
-		"tags": "sonic,furry,S-Tier",
+		"tags": "original art,sonic,furry,S-Tier",
 		"category": "0"
 	},
 	{
