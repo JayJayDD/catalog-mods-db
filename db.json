@@ -1,6 +1,6 @@
 [
 	{
-		"id": 364,
+		"id": 368,
 		"folder": "Banjo&Kazooie Remix",
 		"mod_title": "Banjo&Kazooie Remix",
 		"mod_creator": "Decnot & TheUnsaid",
@@ -16,9 +16,9 @@
 		"download_type": "discord",
 		"tags": "furry,nintendo,rechart,reskin",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 363,
+		"id": 367,
 		"folder": "Cathy (Newcro)[Tutorial]",
 		"mod_title": "Cathy (Newcro)[Tutorial]",
 		"mod_creator": "Newcro",
@@ -34,9 +34,9 @@
 		"download_type": "discord",
 		"tags": "furry,oc,original art,educational",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 362,
+		"id": 366,
 		"folder": "S1M0N's challenge or something",
 		"mod_title": "S1M0N's challenge or something",
 		"mod_creator": "S1M0N",
@@ -52,9 +52,9 @@
 		"download_type": "discord",
 		"tags": "furry,oc,reskin,rechart",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 361,
+		"id": 365,
 		"folder": "Zonk - Draggy Service",
 		"mod_title": "Zonk - Draggy Service",
 		"mod_creator": "Soven",
@@ -70,9 +70,9 @@
 		"download_type": "mega",
 		"tags": "furry,oc,gay,repurposed art",
 		"category": "0"
-	},		
+	},
 	{
-		"id": 360,
+		"id": 364,
 		"folder": "Laverne After Party",
 		"mod_title": "Laverne After Party",
 		"mod_creator": "El Primo",
@@ -88,9 +88,9 @@
 		"download_type": "discord",
 		"tags": "furry,oc,reskin,rechart",
 		"category": "0"
-	},		
+	},
 	{
-		"id": 359,
+		"id": 363,
 		"folder": "01_Laverne",
 		"mod_title": "Laverne",
 		"mod_creator": "Randumb",
@@ -106,9 +106,9 @@
 		"download_type": "mega",
 		"tags": "furry,oc,reskin",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 358,
+		"id": 362,
 		"folder": "Therefore She Is",
 		"mod_title": "Therefore She Is",
 		"mod_creator": "S1M0N",
@@ -124,9 +124,9 @@
 		"download_type": "discord",
 		"tags": "furry,oc,reskin",
 		"category": "0"
-	},		
+	},
 	{
-		"id": 357,
+		"id": 361,
 		"folder": "Chelodoy - Ankha's Push",
 		"mod_title": "Chelodoy - Ankha's Push",
 		"mod_creator": "Soven",
@@ -142,9 +142,9 @@
 		"download_type": "mega",
 		"tags": "furry,repurposed art",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 356,
+		"id": 360,
 		"folder": "RPG Castle - Anime Intro",
 		"mod_title": "RPG Castle - Anime Intro",
 		"mod_creator": "Elise",
@@ -160,9 +160,9 @@
 		"download_type": "discord",
 		"tags": "anime,reskin,compilation",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 355,
+		"id": 359,
 		"folder": "Haydee",
 		"mod_title": "Haydee",
 		"mod_creator": "El Primo",
@@ -178,9 +178,9 @@
 		"download_type": "discord",
 		"tags": "android",
 		"category": "0"
-	},		
+	},
 	{
-		"id": 354,
+		"id": 358,
 		"folder": "Botan Creation",
 		"mod_title": "Ilulu",
 		"mod_creator": "Botan",
@@ -190,15 +190,15 @@
 		"length": "3:51",
 		"bpm": "126",
 		"preview_imgs": "loop0.png",
-		"thumb_img": "",
+		"thumb_img": null,
 		"release_date": "2022-09-18",
 		"download_link": "https://cdn.discordapp.com/attachments/1020933863813431336/1020934154055077959/Ilulu_Creation.zip",
 		"download_type": "discord",
 		"tags": "anime,reskin,rechart",
 		"category": "0"
-	},			
+	},
 	{
-		"id": 353,
+		"id": 357,
 		"folder": "Chelodoy's Gallery Gauntlet",
 		"mod_title": "Chelodoy's Gallery Gauntlet",
 		"mod_creator": "Soven",
@@ -214,9 +214,9 @@
 		"download_type": "discord,github",
 		"tags": "furry,oc,compilation,undertale,futa,helluva boss,repurposed art",
 		"category": "0"
-	},		
+	},
 	{
-		"id": 348,
+		"id": 356,
 		"folder": "Flare (Newcro)[Demo]",
 		"mod_title": "Flare (Newcro)[Demo]",
 		"mod_creator": "Newcro",
@@ -232,9 +232,9 @@
 		"download_type": "github",
 		"tags": "furry,oc,demo",
 		"category": "0"
-	},			
+	},
 	{
-		"id": 347,
+		"id": 355,
 		"folder": "Zonk - Bluefur",
 		"mod_title": "Zonk - Bluefur",
 		"mod_creator": "Soven",
@@ -250,9 +250,9 @@
 		"download_type": "mega,github",
 		"tags": "furry,repurposed art",
 		"category": "0"
-	},		
+	},
 	{
-		"id": 346,
+		"id": 354,
 		"folder": "Minus_GF_Remastered",
 		"mod_title": "Minus GF Remaster",
 		"mod_creator": "JO",
@@ -268,9 +268,9 @@
 		"download_type": "discord",
 		"tags": "reskin,fnf,voicebank",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 345,
+		"id": 353,
 		"folder": "Zonk - Gatorpup",
 		"mod_title": "Zonk - GatorPup",
 		"mod_creator": "Soven",
@@ -286,9 +286,9 @@
 		"download_type": "discord",
 		"tags": "repurposed art,gay,furry",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 344,
+		"id": 352,
 		"folder": "ClockWork",
 		"mod_title": "ClockWork (Blood Warning)",
 		"mod_creator": "Thornn",
@@ -306,7 +306,7 @@
 		"category": "0"
 	},
 	{
-		"id": 343,
+		"id": 351,
 		"folder": "Tsurugi Kyousuke",
 		"mod_title": "Tsurugi Kyousuke",
 		"mod_creator": "Waffles.exe",
@@ -322,9 +322,9 @@
 		"download_type": "discord",
 		"tags": "anime,repurposed art,gay",
 		"category": "0"
-	},			
+	},
 	{
-		"id": 342,
+		"id": 350,
 		"folder": "Bucket Fucking",
 		"mod_title": "Bucket Fucking",
 		"mod_creator": "Thornn",
@@ -340,9 +340,9 @@
 		"download_type": "discord",
 		"tags": "reskin,oc,tentacles",
 		"category": "0"
-	},		
+	},
 	{
-		"id": 341,
+		"id": 349,
 		"folder": "Vivian",
 		"mod_title": "Vivian",
 		"mod_creator": "JOGamin",
@@ -358,9 +358,9 @@
 		"download_type": "discord",
 		"tags": "reskin,nintendo,futa",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 340,
+		"id": 348,
 		"folder": "Quick Astolfo Mod",
 		"mod_title": "Quick astolfo mod",
 		"mod_creator": "Just Kinda & AspiringNoodle & Supersecretsoup",
@@ -377,8 +377,8 @@
 		"tags": "reskin,anime,trap",
 		"category": "0"
 	},
-        {
-		"id": 340,
+	{
+		"id": 347,
 		"folder": "Bucket king",
 		"mod_title": "Bucket King",
 		"mod_creator": "Thornn",
@@ -396,7 +396,7 @@
 		"category": "0"
 	},
 	{
-		"id": 339,
+		"id": 346,
 		"folder": "Illulu",
 		"mod_title": "Illulu",
 		"mod_creator": "El Primo",
@@ -414,7 +414,7 @@
 		"category": "0"
 	},
 	{
-		"id": 338,
+		"id": 345,
 		"folder": "Lotte",
 		"mod_title": "Lotte's Tape",
 		"mod_creator": "Nexialist2 & DoodleSurface",
@@ -432,7 +432,7 @@
 		"category": "0"
 	},
 	{
-		"id": 337,
+		"id": 344,
 		"folder": "JO Loves Cookies",
 		"mod_title": "JO Loves Cookies",
 		"mod_creator": "JOGamin",
@@ -450,7 +450,7 @@
 		"category": "0"
 	},
 	{
-		"id": 336,
+		"id": 343,
 		"folder": "Mae_Borowski_Dialogue_Big_Balls",
 		"mod_title": "Mae Borowski Dialogue - Big Balls Edition",
 		"mod_creator": "Potatochip, Spooks, ThisAccountDoesExist",
@@ -468,7 +468,7 @@
 		"category": "0"
 	},
 	{
-		"id": 335,
+		"id": 342,
 		"folder": "Hornet Kneels",
 		"mod_title": "Hornet Kneels",
 		"mod_creator": "Disappointment",
@@ -486,7 +486,7 @@
 		"category": "0"
 	},
 	{
-		"id": 335,
+		"id": 341,
 		"folder": "ImNotFromFBI Hornet mod v1.2 rechart",
 		"mod_title": "ImNotFromFBI Hornet mod v1.2 rechart",
 		"mod_creator": "Disappointment",
@@ -496,7 +496,7 @@
 		"length": "2:02",
 		"bpm": "112.64",
 		"preview_imgs": "loop0.png",
-		"thumb_img": "",
+		"thumb_img": null,
 		"release_date": "2022-09-09",
 		"download_link": "https://cdn.discordapp.com/attachments/1003414088656879697/1017867276046831636/ImNotFromFBI_Hornet_mod_v1.2_rechart.zip",
 		"download_type": "discord",
@@ -504,7 +504,7 @@
 		"category": "0"
 	},
 	{
-		"id": 334,
+		"id": 340,
 		"folder": "Call Me Octavia",
 		"mod_title": "Call Me Octavia",
 		"mod_creator": "Decnot & Space wyvern",
@@ -522,7 +522,7 @@
 		"category": "0"
 	},
 	{
-		"id": 333,
+		"id": 339,
 		"folder": "Therechy",
 		"mod_title": "Thearchy",
 		"mod_creator": "JO",
@@ -540,7 +540,7 @@
 		"category": "0"
 	},
 	{
-		"id": 332,
+		"id": 338,
 		"folder": "Skal The Dickgirl 1.1",
 		"mod_title": "Skal the Dickgirl",
 		"mod_creator": "S1MON",
@@ -558,7 +558,7 @@
 		"category": "0"
 	},
 	{
-		"id": 331,
+		"id": 337,
 		"folder": "Hornet by Millow (BASE)",
 		"mod_title": "Hornet by Millow (BASE)",
 		"mod_creator": "Millow",
@@ -576,7 +576,7 @@
 		"category": "0"
 	},
 	{
-		"id": 330,
+		"id": 336,
 		"folder": "Hornet by Millow",
 		"mod_title": "Hornet by Millow",
 		"mod_creator": "Millow",
@@ -594,7 +594,7 @@
 		"category": "0"
 	},
 	{
-		"id": 329,
+		"id": 335,
 		"folder": "octavia",
 		"mod_title": "Octavia",
 		"mod_creator": "Decnot & Space wyvern",
@@ -612,79 +612,7 @@
 		"category": "0"
 	},
 	{
-		"id": 328,
-		"folder": "TurismoTurboBonusMods/Nova's titties are too big",
-		"mod_title": "Nova's titties are too big",
-		"mod_creator": "TurismoTurbo",
-		"mod_artist": "TurismoTurbo",
-		"song_artist": "Komdog",
-		"song_title": "Goat House",
-		"length": "2:15",
-		"bpm": "128",
-		"preview_imgs": "intro.png",
-		"thumb_img": "thumb.png",
-		"release_date": "2022-09-05",
-		"download_link": "https://mega.nz/file/BDxXRYBK#_HCIPkESzPtlD60ySmATRUlub9jQ38DCJPKrfuh8E38",
-		"download_type": "mega",
-		"tags": "original art,furry",
-		"category": "0"
-	},
-	{
-		"id": 327,
-		"folder": "TurismoTurboBonusMods/Kacia vs Maxi",
-		"mod_title": "Kacia vs Maxi",
-		"mod_creator": "TurismoTurbo",
-		"mod_artist": "TurismoTurbo",
-		"song_artist": "Komdog",
-		"song_title": "Judy Demo Song",
-		"length": "1:20",
-		"bpm": "128",
-		"preview_imgs": "2softhotdog2.png",
-		"thumb_img": "thumb.png",
-		"release_date": "2022-09-05",
-		"download_link": "https://mega.nz/file/BDxXRYBK#_HCIPkESzPtlD60ySmATRUlub9jQ38DCJPKrfuh8E38",
-		"download_type": "mega",
-		"tags": "original art,furry,voicebank",
-		"category": "0"
-	},
-	{
-		"id": 326,
-		"folder": "TurismoTurboBonusMods/Laurie's Services",
-		"mod_title": "Laurie's Services",
-		"mod_creator": "TurismoTurbo",
-		"mod_artist": "TurismoTurbo",
-		"song_artist": "Komdog",
-		"song_title": "Judy Demo Song",
-		"length": "1:20",
-		"bpm": "128",
-		"preview_imgs": "bra2.png",
-		"thumb_img": "thumb.png",
-		"release_date": "2022-09-05",
-		"download_link": "https://mega.nz/file/BDxXRYBK#_HCIPkESzPtlD60ySmATRUlub9jQ38DCJPKrfuh8E38",
-		"download_type": "mega",
-		"tags": "original art,furry",
-		"category": "0"
-	},
-	{
-		"id": 325,
-		"folder": "TurismoTurboBonusMods/Kacia Rides You",
-		"mod_title": "Kacia Rides You",
-		"mod_creator": "TurismoTurbo",
-		"mod_artist": "TurismoTurbo",
-		"song_artist": "Komdog",
-		"song_title": "Judy Demo Song",
-		"length": "1:20",
-		"bpm": "128",
-		"preview_imgs": "bounce1.png",
-		"thumb_img": "thumb.png",
-		"release_date": "2022-09-05",
-		"download_link": "https://mega.nz/file/BDxXRYBK#_HCIPkESzPtlD60ySmATRUlub9jQ38DCJPKrfuh8E38",
-		"download_type": "mega",
-		"tags": "original art,furry",
-		"category": "0"
-	},
-    {
-		"id": 324,
+		"id": 330,
 		"folder": "Bob",
 		"mod_title": "Bob",
 		"mod_creator": "JOGamin",
@@ -702,7 +630,7 @@
 		"category": "0"
 	},
 	{
-		"id": 323,
+		"id": 329,
 		"folder": "Kazotsky Kick TF2",
 		"mod_title": "TF2 kazotsky kick",
 		"mod_creator": "Demoblunt",
@@ -720,7 +648,7 @@
 		"category": "0"
 	},
 	{
-		"id": 322,
+		"id": 328,
 		"folder": "lucario kom alt",
 		"mod_title": "Lucario",
 		"mod_creator": "Shadrock2",
@@ -738,7 +666,79 @@
 		"category": "0"
 	},
 	{
-		"id": 321,
+		"id": 334,
+		"folder": "TurismoTurboBonusMods/Nova's titties are too big",
+		"mod_title": "Nova's titties are too big",
+		"mod_creator": "TurismoTurbo",
+		"mod_artist": "TurismoTurbo",
+		"song_artist": "Komdog",
+		"song_title": "Goat House",
+		"length": "2:15",
+		"bpm": "128",
+		"preview_imgs": "intro.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-05",
+		"download_link": "https://mega.nz/file/BDxXRYBK#_HCIPkESzPtlD60ySmATRUlub9jQ38DCJPKrfuh8E38",
+		"download_type": "mega",
+		"tags": "original art,furry",
+		"category": "0"
+	},
+	{
+		"id": 333,
+		"folder": "TurismoTurboBonusMods/Kacia vs Maxi",
+		"mod_title": "Kacia vs Maxi",
+		"mod_creator": "TurismoTurbo",
+		"mod_artist": "TurismoTurbo",
+		"song_artist": "Komdog",
+		"song_title": "Judy Demo Song",
+		"length": "1:20",
+		"bpm": "128",
+		"preview_imgs": "2softhotdog2.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-05",
+		"download_link": "https://mega.nz/file/BDxXRYBK#_HCIPkESzPtlD60ySmATRUlub9jQ38DCJPKrfuh8E38",
+		"download_type": "mega",
+		"tags": "original art,furry,voicebank",
+		"category": "0"
+	},
+	{
+		"id": 332,
+		"folder": "TurismoTurboBonusMods/Laurie's Services",
+		"mod_title": "Laurie's Services",
+		"mod_creator": "TurismoTurbo",
+		"mod_artist": "TurismoTurbo",
+		"song_artist": "Komdog",
+		"song_title": "Judy Demo Song",
+		"length": "1:20",
+		"bpm": "128",
+		"preview_imgs": "bra2.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-05",
+		"download_link": "https://mega.nz/file/BDxXRYBK#_HCIPkESzPtlD60ySmATRUlub9jQ38DCJPKrfuh8E38",
+		"download_type": "mega",
+		"tags": "original art,furry",
+		"category": "0"
+	},
+	{
+		"id": 331,
+		"folder": "TurismoTurboBonusMods/Kacia Rides You",
+		"mod_title": "Kacia Rides You",
+		"mod_creator": "TurismoTurbo",
+		"mod_artist": "TurismoTurbo",
+		"song_artist": "Komdog",
+		"song_title": "Judy Demo Song",
+		"length": "1:20",
+		"bpm": "128",
+		"preview_imgs": "bounce1.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-05",
+		"download_link": "https://mega.nz/file/BDxXRYBK#_HCIPkESzPtlD60ySmATRUlub9jQ38DCJPKrfuh8E38",
+		"download_type": "mega",
+		"tags": "original art,furry",
+		"category": "0"
+	},
+	{
+		"id": 327,
 		"folder": "Tineola Paizuri",
 		"mod_title": "Tineola Paizuri",
 		"mod_creator": "Tineola",
@@ -756,7 +756,7 @@
 		"category": "0"
 	},
 	{
-		"id": 320,
+		"id": 326,
 		"folder": "Jack Get Low",
 		"mod_title": "Jack Get Low",
 		"mod_creator": "JOGamin",
@@ -774,7 +774,7 @@
 		"category": "0"
 	},
 	{
-		"id": 319,
+		"id": 325,
 		"folder": "Skal",
 		"mod_title": "Skal the Dickgirl",
 		"mod_creator": "Decnot",
@@ -792,7 +792,7 @@
 		"category": "0"
 	},
 	{
-		"id": 318,
+		"id": 324,
 		"folder": "Judy on the Air (ft Horses)",
 		"mod_title": "Judy on the Air (ft Horses)",
 		"mod_creator": "SomewhereMan",
@@ -810,7 +810,7 @@
 		"category": "0"
 	},
 	{
-		"id": 317,
+		"id": 323,
 		"folder": "Kobold_Bounce",
 		"mod_title": "Kobold Bounce",
 		"mod_creator": "Sludgie",
@@ -828,7 +828,7 @@
 		"category": "0"
 	},
 	{
-		"id": 316,
+		"id": 322,
 		"folder": "Decnot - Isabelle",
 		"mod_title": "Isabelle Minus8",
 		"mod_creator": "Decnot",
@@ -846,7 +846,7 @@
 		"category": "0"
 	},
 	{
-		"id": 315,
+		"id": 321,
 		"folder": "Komdog - FemDog - BJ Only",
 		"mod_title": "FemDog - BJ Only",
 		"mod_creator": "Komdog",
@@ -864,7 +864,7 @@
 		"category": "0"
 	},
 	{
-		"id": 314,
+		"id": 320,
 		"folder": "AsrielWagon - Estela",
 		"mod_title": "Estela",
 		"mod_creator": "AsrielTheWagon",
@@ -882,7 +882,7 @@
 		"category": "0"
 	},
 	{
-		"id": 313,
+		"id": 319,
 		"folder": "Decnot - Banjo & Kazooie",
 		"mod_title": "Banjo & Kazooie",
 		"mod_creator": "Decnot",
@@ -900,7 +900,7 @@
 		"category": "0"
 	},
 	{
-		"id": 312,
+		"id": 318,
 		"folder": "Decnot - Cinderace",
 		"mod_title": "Cinderace",
 		"mod_creator": "Decnot",
@@ -918,7 +918,7 @@
 		"category": "0"
 	},
 	{
-		"id": 311,
+		"id": 317,
 		"folder": "Decnot - Cinder (Spyro)",
 		"mod_title": "Spyro & Cynder",
 		"mod_creator": "Decnot",
@@ -936,7 +936,7 @@
 		"category": "0"
 	},
 	{
-		"id": 310,
+		"id": 316,
 		"folder": "Anon - Sploot",
 		"mod_title": "Sploot Demo",
 		"mod_creator": "Drem",
@@ -954,7 +954,7 @@
 		"category": "0"
 	},
 	{
-		"id": 309,
+		"id": 315,
 		"folder": "JasparFox - Mesmerelda's Haunted Romp",
 		"mod_title": "Mesmerelda's Haunted Romp",
 		"mod_creator": "JasparFox",
@@ -972,7 +972,7 @@
 		"category": "0"
 	},
 	{
-		"id": 308,
+		"id": 314,
 		"folder": "Twelve Steps - Jera",
 		"mod_title": "Jera",
 		"mod_creator": "Twelve steps",
@@ -990,7 +990,7 @@
 		"category": "0"
 	},
 	{
-		"id": 307,
+		"id": 313,
 		"folder": "Rytmid - Spider-Gwen Bang Bang",
 		"mod_title": "Spider-Gwen Bang-Bang",
 		"mod_creator": "ImNotFromFBI",
@@ -1008,7 +1008,7 @@
 		"category": "0"
 	},
 	{
-		"id": 306,
+		"id": 312,
 		"folder": "Turbo - Kacia (Riding)",
 		"mod_title": "Kacia's Fat Honey Buns",
 		"mod_creator": "Turbo",
@@ -1026,7 +1026,7 @@
 		"category": "0"
 	},
 	{
-		"id": 305,
+		"id": 311,
 		"folder": "Turbo - Kacia (Anal)",
 		"mod_title": "Kacia (Anal)",
 		"mod_creator": "Turbo",
@@ -1044,7 +1044,7 @@
 		"category": "0"
 	},
 	{
-		"id": 304,
+		"id": 310,
 		"folder": "Turbo - Kacia (Titfuck)",
 		"mod_title": "Kacia (Titfuck)",
 		"mod_creator": "Turbo",
@@ -1062,7 +1062,7 @@
 		"category": "0"
 	},
 	{
-		"id": 303,
+		"id": 309,
 		"folder": "FBI - Hornet",
 		"mod_title": "Hornet II",
 		"mod_creator": "ImNotFromFBI",
@@ -1080,7 +1080,7 @@
 		"category": "0"
 	},
 	{
-		"id": 302,
+		"id": 308,
 		"folder": "Foxyboi - Hornet Tiddyfest",
 		"mod_title": "Hornet Tiddyfest",
 		"mod_creator": "Foxyboi",
@@ -1098,7 +1098,7 @@
 		"category": "0"
 	},
 	{
-		"id": 301,
+		"id": 307,
 		"folder": "Foxyboi - Hornet Titfuck",
 		"mod_title": "Hornet Titfuck",
 		"mod_creator": "Foxyboi",
@@ -1116,7 +1116,7 @@
 		"category": "0"
 	},
 	{
-		"id": 300,
+		"id": 306,
 		"folder": "Klein",
 		"mod_title": "Klein (by Umbrakinetic)",
 		"mod_creator": "Umbrakinetic",
@@ -1134,7 +1134,7 @@
 		"category": "0"
 	},
 	{
-		"id": 299,
+		"id": 305,
 		"folder": "Toy Chica ghghghghhhgh",
 		"mod_title": "Toy Chica ghghghghhhgh",
 		"mod_creator": "KennyT0",
@@ -1152,7 +1152,7 @@
 		"category": "0"
 	},
 	{
-		"id": 298,
+		"id": 304,
 		"folder": "Tower of FantASSy",
 		"mod_title": "Tower of FantASSy",
 		"mod_creator": "Ozrenol, R-94",
@@ -1170,7 +1170,7 @@
 		"category": "0"
 	},
 	{
-		"id": 297,
+		"id": 303,
 		"folder": "Rouge's Pumpkin [Side B]",
 		"mod_title": "Rouge's Pumpkin [Side B]",
 		"mod_creator": "QTree",
@@ -1188,7 +1188,7 @@
 		"category": "0"
 	},
 	{
-		"id": 296,
+		"id": 302,
 		"folder": "Rouge's Pumpkin [Side A]",
 		"mod_title": "Rouge's Pumpkin [Side A]",
 		"mod_creator": "QTree",
@@ -1206,7 +1206,7 @@
 		"category": "0"
 	},
 	{
-		"id": 295,
+		"id": 301,
 		"folder": "Komdog at the Disco",
 		"mod_title": "Komdog at the Disco",
 		"mod_creator": "El Primo",
@@ -1224,7 +1224,7 @@
 		"category": "0"
 	},
 	{
-		"id": 294,
+		"id": 300,
 		"folder": "Nikku",
 		"mod_title": "Nikku",
 		"mod_creator": "JO",
@@ -1242,7 +1242,7 @@
 		"category": "0"
 	},
 	{
-		"id": 293,
+		"id": 299,
 		"folder": "Devant Mod V1.0 (iWTBAT)",
 		"mod_title": "Devant Mod",
 		"mod_creator": "iWTBAT",
@@ -1260,7 +1260,7 @@
 		"category": "0"
 	},
 	{
-		"id": 292,
+		"id": 298,
 		"folder": "Zooz Mod V1.2 (iWTBAT)",
 		"mod_title": "Zooz Mod",
 		"mod_creator": "iWTBAT",
@@ -1278,7 +1278,7 @@
 		"category": "0"
 	},
 	{
-		"id": 291,
+		"id": 297,
 		"folder": "Mae_Moves_Her_Body",
 		"mod_title": "Mae Moves Her Body -  Dialogue",
 		"mod_creator": "Potatochip & Spooks & faminetracker",
@@ -1296,7 +1296,7 @@
 		"category": "0"
 	},
 	{
-		"id": 290,
+		"id": 296,
 		"folder": "Suwie & Nimu No Voice",
 		"mod_title": "Suwie & Nimu No Voice",
 		"mod_creator": "Nexia / elise",
@@ -1314,7 +1314,7 @@
 		"category": "0"
 	},
 	{
-		"id": 289,
+		"id": 295,
 		"folder": "Suwie & Nimu Voiced",
 		"mod_title": "Suwie & Nimu Voiced",
 		"mod_creator": "Nexia / elise",
@@ -1332,7 +1332,7 @@
 		"category": "0"
 	},
 	{
-		"id": 288,
+		"id": 294,
 		"folder": "Alt. Dib Yeen - Disco Ball - No Dialogue",
 		"mod_title": "Alt. Dib Yeen at the Disco",
 		"mod_creator": "El Primo",
@@ -1350,7 +1350,7 @@
 		"category": "0"
 	},
 	{
-		"id": 288,
+		"id": 293,
 		"folder": "Alt. Dib Yeen - Disco Ball",
 		"mod_title": "Alt. Dib Yeen at the Disco",
 		"mod_creator": "El Primo",
@@ -1368,7 +1368,7 @@
 		"category": "0"
 	},
 	{
-		"id": 287,
+		"id": 292,
 		"folder": "Selever FNF Fixed",
 		"mod_title": "Selever",
 		"mod_creator": "JOGamin",
@@ -1386,7 +1386,7 @@
 		"category": "0"
 	},
 	{
-		"id": 286,
+		"id": 291,
 		"folder": "Komdog Party till we die",
 		"mod_title": "Komdog Party till we die",
 		"mod_creator": "JO",
@@ -1404,7 +1404,7 @@
 		"category": "0"
 	},
 	{
-		"id": 285,
+		"id": 290,
 		"folder": "Threesome Trouble",
 		"mod_title": "Threesome Trouble",
 		"mod_creator": "Ozrenol",
@@ -1422,7 +1422,7 @@
 		"category": "0"
 	},
 	{
-		"id": 284,
+		"id": 289,
 		"folder": "Komdog Chariot_1",
 		"mod_title": "Komdog Chariot",
 		"mod_creator": "kid named finger",
@@ -1440,7 +1440,7 @@
 		"category": "0"
 	},
 	{
-		"id": 283,
+		"id": 288,
 		"folder": "Noelle",
 		"mod_title": "Noelle by Sue",
 		"mod_creator": "Sue, 12 Steps",
@@ -1458,7 +1458,7 @@
 		"category": "0"
 	},
 	{
-		"id": 282,
+		"id": 287,
 		"folder": "Threesome Trouble JO Edition",
 		"mod_title": "Threesome Trouble JO Edition",
 		"mod_creator": "JO",
@@ -1476,7 +1476,7 @@
 		"category": "0"
 	},
 	{
-		"id": 281,
+		"id": 286,
 		"folder": "Uzaki Clutch",
 		"mod_title": "Uzaki-Chan Wants to Talk!",
 		"mod_creator": "El Primo",
@@ -1494,7 +1494,7 @@
 		"category": "0"
 	},
 	{
-		"id": 280,
+		"id": 285,
 		"folder": "Toriel's Dirty Secret",
 		"mod_title": "Toriel's Dirty Secret",
 		"mod_creator": "QTree",
@@ -1512,7 +1512,7 @@
 		"category": "0"
 	},
 	{
-		"id": 279,
+		"id": 284,
 		"folder": "Muffet's Wood",
 		"mod_title": "Muffet's Wood",
 		"mod_creator": "QTree",
@@ -1530,7 +1530,7 @@
 		"category": "0"
 	},
 	{
-		"id": 278,
+		"id": 283,
 		"folder": "Alt-Rosalina -8",
 		"mod_title": "Alt-Rosalina -8",
 		"mod_creator": "Six",
@@ -1548,7 +1548,7 @@
 		"category": "0"
 	},
 	{
-		"id": 277,
+		"id": 282,
 		"folder": "Toriel (Newcro)[Easy]",
 		"mod_title": "Toriel (Newcro)[Easy]",
 		"mod_creator": "Newcro",
@@ -1566,7 +1566,7 @@
 		"category": "0"
 	},
 	{
-		"id": 276,
+		"id": 281,
 		"folder": "Toriel (Newcro)[Textless]",
 		"mod_title": "Toriel (Newcro)[Textless]",
 		"mod_creator": "Newcro",
@@ -1584,7 +1584,7 @@
 		"category": "0"
 	},
 	{
-		"id": 275,
+		"id": 280,
 		"folder": "Toriel (Newcro)",
 		"mod_title": "Toriel (Newcro)",
 		"mod_creator": "Newcro",
@@ -1602,7 +1602,7 @@
 		"category": "0"
 	},
 	{
-		"id": 274,
+		"id": 279,
 		"folder": "Toriel's Heartache",
 		"mod_title": "Toriel's Heartache",
 		"mod_creator": "QTree",
@@ -1620,7 +1620,7 @@
 		"category": "0"
 	},
 	{
-		"id": 273,
+		"id": 278,
 		"folder": "Shota-kun's 18th Birthday",
 		"mod_title": "Shota-kun's 18th Birthday",
 		"mod_creator": "El Primo (Penguinologist)",
@@ -1638,7 +1638,7 @@
 		"category": "0"
 	},
 	{
-		"id": 272,
+		"id": 277,
 		"folder": "Legoshi Hyper Balls - Copy",
 		"mod_title": "Legoshi Hyper Balls Song Change",
 		"mod_creator": "dm me gay mods",
@@ -1656,7 +1656,7 @@
 		"category": "0"
 	},
 	{
-		"id": 271,
+		"id": 276,
 		"folder": "Stuff-N-MalO",
 		"mod_title": "Stuff n MalO",
 		"mod_creator": "Ren",
@@ -1674,7 +1674,7 @@
 		"category": "0"
 	},
 	{
-		"id": 270,
+		"id": 275,
 		"folder": "00_Tiffy_Cheesecake",
 		"mod_title": "Tiffy Cheesecake",
 		"mod_creator": "Randumb",
@@ -1692,7 +1692,7 @@
 		"category": "0"
 	},
 	{
-		"id": 269,
+		"id": 274,
 		"folder": "Diane Foxington (Newcro)",
 		"mod_title": "Diane Foxington (Newcro)",
 		"mod_creator": "Newcro",
@@ -1710,7 +1710,7 @@
 		"category": "0"
 	},
 	{
-		"id": 268,
+		"id": 273,
 		"folder": "Lucian On Top",
 		"mod_title": "Lucian On Top",
 		"mod_creator": "Jet",
@@ -1728,7 +1728,7 @@
 		"category": "0"
 	},
 	{
-		"id": 267,
+		"id": 272,
 		"folder": "Asriel&Ralsei",
 		"mod_title": "SAsriel&Ralsei",
 		"mod_creator": "AkemiMedra",
@@ -1746,7 +1746,7 @@
 		"category": "0"
 	},
 	{
-		"id": 266,
+		"id": 271,
 		"folder": "Softy Satisfies (HARD)",
 		"mod_title": "Soft but it's (HARD)",
 		"mod_creator": "wawa/elise",
@@ -1764,7 +1764,7 @@
 		"category": "0"
 	},
 	{
-		"id": 265,
+		"id": 270,
 		"folder": "AshleyMoveYourBody",
 		"mod_title": "Ashley MoveYourBody",
 		"mod_creator": "Just Kinda & AspiringNoodle & Supersecretsoup",
@@ -1782,7 +1782,7 @@
 		"category": "0"
 	},
 	{
-		"id": 264,
+		"id": 269,
 		"folder": "Legoshi Hyper Balls",
 		"mod_title": "Legoshi Hyper Balls",
 		"mod_creator": "El Primo",
@@ -1800,7 +1800,7 @@
 		"category": "0"
 	},
 	{
-		"id": 263,
+		"id": 268,
 		"folder": "MagYoshi [Crap art edition]",
 		"mod_title": "Magyoshi [Crap art edition]",
 		"mod_creator": "Supersecretsoup",
@@ -1818,7 +1818,7 @@
 		"category": "0"
 	},
 	{
-		"id": 262,
+		"id": 267,
 		"folder": "Toadette's Castle",
 		"mod_title": "Toadette's Castle",
 		"mod_creator": "QTree",
@@ -1836,7 +1836,7 @@
 		"category": "0"
 	},
 	{
-		"id": 261,
+		"id": 266,
 		"folder": "Futa Yoshi U Got That",
 		"mod_title": "Futa Yoshi U Got That",
 		"mod_creator": "Ninjakeks",
@@ -1854,7 +1854,7 @@
 		"category": "0"
 	},
 	{
-		"id": 260,
+		"id": 265,
 		"folder": "Nagatoro - Chariot",
 		"mod_title": "Nagatoro - Chariot",
 		"mod_creator": "El Primo",
@@ -1872,7 +1872,7 @@
 		"category": "0"
 	},
 	{
-		"id": 258,
+		"id": 264,
 		"folder": "lisa simpson",
 		"mod_title": "lisasimpson",
 		"mod_creator": "nate",
@@ -1890,7 +1890,7 @@
 		"category": "0"
 	},
 	{
-		"id": 259,
+		"id": 263,
 		"folder": "Nagatoro(HARD)",
 		"mod_title": "Nagatoro(HARD)",
 		"mod_creator": "El Primo",
@@ -1908,7 +1908,7 @@
 		"category": "0"
 	},
 	{
-		"id": 257,
+		"id": 262,
 		"folder": "Chizuru's Rich",
 		"mod_title": "Mizuhara",
 		"mod_creator": "El Primo / elise",
@@ -1926,7 +1926,7 @@
 		"category": "0"
 	},
 	{
-		"id": 256,
+		"id": 261,
 		"folder": "(FNF) Meri",
 		"mod_title": "Meri",
 		"mod_creator": "JO",
@@ -1944,7 +1944,7 @@
 		"category": "0"
 	},
 	{
-		"id": 255,
+		"id": 260,
 		"folder": "Please Don't Fuck Me, Nagatoro!",
 		"mod_title": "Please Don't Fuck Me, Nagatoro!",
 		"mod_creator": "El Primo",
@@ -1962,7 +1962,7 @@
 		"category": "0"
 	},
 	{
-		"id": 254,
+		"id": 259,
 		"folder": "Meri Chariot",
 		"mod_title": "Meri Chariot",
 		"mod_creator": "JO",
@@ -1980,7 +1980,7 @@
 		"category": "0"
 	},
 	{
-		"id": 253,
+		"id": 258,
 		"folder": "Judy BB",
 		"mod_title": "Judy's Sponser",
 		"mod_creator": "Incog",
@@ -1998,7 +1998,7 @@
 		"category": "0"
 	},
 	{
-		"id": 252,
+		"id": 257,
 		"folder": "Toriel BB",
 		"mod_title": "Toriel's Sponser",
 		"mod_creator": "Incog",
@@ -2016,7 +2016,7 @@
 		"category": "0"
 	},
 	{
-		"id": 251,
+		"id": 256,
 		"folder": "MaggieRedoneCUM X",
 		"mod_title": "MaggieRedone Cum X",
 		"mod_creator": "Supersecretsoup",
@@ -2034,7 +2034,7 @@
 		"category": "0"
 	},
 	{
-		"id": 250,
+		"id": 255,
 		"folder": "MaggieRedone X",
 		"mod_title": "MaggieRedone X",
 		"mod_creator": "Supersecretsoup",
@@ -2052,7 +2052,7 @@
 		"category": "0"
 	},
 	{
-		"id": 249,
+		"id": 254,
 		"folder": "BythosPegX",
 		"mod_title": "Bythos pegs your butthole X",
 		"mod_creator": "Supersecretsoup",
@@ -2070,7 +2070,7 @@
 		"category": "0"
 	},
 	{
-		"id": 248,
+		"id": 253,
 		"folder": "Trist's Daily Nut",
 		"mod_title": "Trist's Daily Nut",
 		"mod_creator": "Trist",
@@ -2088,7 +2088,7 @@
 		"category": "0"
 	},
 	{
-		"id": 247,
+		"id": 252,
 		"folder": "Spooke Ghost",
 		"mod_title": "Spooke Ghost",
 		"mod_creator": "Trist",
@@ -2106,10 +2106,10 @@
 		"category": "0"
 	},
 	{
-		"id": 246,
+		"id": 251,
 		"folder": "Mona edit sparkles in september",
 		"mod_title": "Mona edit sparkles in september",
-		"mod_creator": "🍨🍰",
+		"mod_creator": "昏魂",
 		"mod_artist": "Minuspal",
 		"song_artist": "Not Deoxide",
 		"song_title": "When the rune sparkles in September / Eurobeat Remix",
@@ -2124,7 +2124,7 @@
 		"category": "0"
 	},
 	{
-		"id": 245,
+		"id": 250,
 		"folder": "Uzaki More",
 		"mod_title": "Uzaki More (Vocals)",
 		"mod_creator": "Unnamed",
@@ -2142,7 +2142,7 @@
 		"category": "0"
 	},
 	{
-		"id": 244,
+		"id": 249,
 		"folder": "Lemon",
 		"mod_title": "(FNF) Monster",
 		"mod_creator": "JO",
@@ -2160,7 +2160,7 @@
 		"category": "0"
 	},
 	{
-		"id": 243,
+		"id": 248,
 		"folder": "Iona (Hard)",
 		"mod_title": "Iona Itova (Hard)",
 		"mod_creator": "Momma Iona",
@@ -2178,7 +2178,7 @@
 		"category": "0"
 	},
 	{
-		"id": 242,
+		"id": 247,
 		"folder": "Iona (Easy)",
 		"mod_title": "Iona Itova (Easy)",
 		"mod_creator": "Momma Iona",
@@ -2196,7 +2196,7 @@
 		"category": "0"
 	},
 	{
-		"id": 241,
+		"id": 246,
 		"folder": "Mona",
 		"mod_title": "Mona",
 		"mod_creator": "Six",
@@ -2214,7 +2214,7 @@
 		"category": "0"
 	},
 	{
-		"id": 240,
+		"id": 245,
 		"folder": "Judy Biggest Problem (SeatbeltV2)",
 		"mod_title": "Judy Biggest Problem (Seatbelt - Horse V2)",
 		"mod_creator": "Just Kinda / Edited By Anonymous",
@@ -2232,7 +2232,7 @@
 		"category": "0"
 	},
 	{
-		"id": 239,
+		"id": 244,
 		"folder": "Uzaki",
 		"mod_title": "Uzaki",
 		"mod_creator": "Penguinologist",
@@ -2250,7 +2250,7 @@
 		"category": "0"
 	},
 	{
-		"id": 238,
+		"id": 243,
 		"folder": "Retsuko_Supertoast",
 		"mod_title": "Retsuko Supertoast",
 		"mod_creator": "Six",
@@ -2268,7 +2268,7 @@
 		"category": "0"
 	},
 	{
-		"id": 237,
+		"id": 242,
 		"folder": "Freddy & Foxy (Remake) [Alt]",
 		"mod_title": "Freddy & Foxy (Remake)[Alt]",
 		"mod_creator": "Shaman",
@@ -2286,7 +2286,7 @@
 		"category": "0"
 	},
 	{
-		"id": 236,
+		"id": 241,
 		"folder": "Freddy & Foxy (Remake)",
 		"mod_title": "Freddy & Foxy (Remake)",
 		"mod_creator": "Shaman",
@@ -2304,7 +2304,7 @@
 		"category": "0"
 	},
 	{
-		"id": 235,
+		"id": 240,
 		"folder": "Cappy",
 		"mod_title": "Cappy",
 		"mod_creator": "JO",
@@ -2322,7 +2322,7 @@
 		"category": "0"
 	},
 	{
-		"id": 234,
+		"id": 239,
 		"folder": "Ms.chalice voiced",
 		"mod_title": "Ms.Chalice voiced",
 		"mod_creator": "wowow",
@@ -2340,7 +2340,7 @@
 		"category": "0"
 	},
 	{
-		"id": 233,
+		"id": 238,
 		"folder": "Breasts-Only Toriel",
 		"mod_title": "Breasts-Only Toriel",
 		"mod_creator": "Rolo",
@@ -2358,7 +2358,7 @@
 		"category": "0"
 	},
 	{
-		"id": 232,
+		"id": 237,
 		"folder": "stripper moxxie",
 		"mod_title": "Stripper Moxxie",
 		"mod_creator": "Queen Susie, Anonymous & WetWaffls",
@@ -2376,7 +2376,7 @@
 		"category": "0"
 	},
 	{
-		"id": 231,
+		"id": 236,
 		"folder": "Expunged Muckbang",
 		"mod_title": "Expunged Muckbang",
 		"mod_creator": "JOGamin",
@@ -2394,7 +2394,7 @@
 		"category": "0"
 	},
 	{
-		"id": 230,
+		"id": 235,
 		"folder": "TorielSparkle",
 		"mod_title": "TorielSparkle",
 		"mod_creator": "Loudstorm",
@@ -2412,7 +2412,7 @@
 		"category": "0"
 	},
 	{
-		"id": 223,
+		"id": 234,
 		"folder": "Suki Lane (Newcro)",
 		"mod_title": "Suki Lane (Newcro)",
 		"mod_creator": "Newcro",
@@ -2430,7 +2430,7 @@
 		"category": "0"
 	},
 	{
-		"id": 229,
+		"id": 233,
 		"folder": "Changed (White-T)",
 		"mod_title": "Changed Wh-T",
 		"mod_creator": "SadRytmid",
@@ -2448,7 +2448,7 @@
 		"category": "0"
 	},
 	{
-		"id": 228,
+		"id": 232,
 		"folder": "Changed (White-D)",
 		"mod_title": "Changed Wh-D",
 		"mod_creator": "SadRytmid",
@@ -2466,7 +2466,7 @@
 		"category": "0"
 	},
 	{
-		"id": 227,
+		"id": 231,
 		"folder": "Changed (Black)",
 		"mod_title": "Changed BL",
 		"mod_creator": "SadRytmid",
@@ -2484,7 +2484,7 @@
 		"category": "0"
 	},
 	{
-		"id": 226,
+		"id": 230,
 		"folder": "Charlotte Webster HARD",
 		"mod_title": "Charlotte Webster HARD",
 		"mod_creator": "VoidBeerFloat n Spooderboi n Therulesdontapplytotaco",
@@ -2502,7 +2502,7 @@
 		"category": "0"
 	},
 	{
-		"id": 225,
+		"id": 229,
 		"folder": "Charlotte Webster",
 		"mod_title": "Charlotte Webster",
 		"mod_creator": "VoidBeerFloat n Spooderboi n Therulesdontapplytotaco",
@@ -2520,7 +2520,7 @@
 		"category": "0"
 	},
 	{
-		"id": 224,
+		"id": 228,
 		"folder": "Midna by SadR",
 		"mod_title": "Midna by SadR",
 		"mod_creator": "SadRytmid",
@@ -2538,7 +2538,7 @@
 		"category": "0"
 	},
 	{
-		"id": 222,
+		"id": 227,
 		"folder": "MlpTorielReskin",
 		"mod_title": "MlpTorielReskin",
 		"mod_creator": "Loudstorm",
@@ -2556,7 +2556,7 @@
 		"category": "0"
 	},
 	{
-		"id": 221,
+		"id": 226,
 		"folder": "Joker's Toriel reskin",
 		"mod_title": "Joker's Toriel reskin",
 		"mod_creator": "DrJoker",
@@ -2574,7 +2574,7 @@
 		"category": "0"
 	},
 	{
-		"id": 220,
+		"id": 225,
 		"folder": "Neco arc fixed",
 		"mod_title": "Neco Arc",
 		"mod_creator": "Bittersweet",
@@ -2592,7 +2592,7 @@
 		"category": "0"
 	},
 	{
-		"id": 219,
+		"id": 224,
 		"folder": "Brooke Redux",
 		"mod_title": "Brooke Redux",
 		"mod_creator": "DumDoge",
@@ -2610,7 +2610,7 @@
 		"category": "0"
 	},
 	{
-		"id": 218,
+		"id": 223,
 		"folder": "Heavy Back Baby",
 		"mod_title": "Heavy Brings it Back",
 		"mod_creator": "SussySpongebob",
@@ -2628,7 +2628,7 @@
 		"category": "0"
 	},
 	{
-		"id": 217,
+		"id": 222,
 		"folder": "Rayman",
 		"mod_title": "Rayman (EX)",
 		"mod_creator": "JO",
@@ -2646,7 +2646,7 @@
 		"category": "0"
 	},
 	{
-		"id": 1,
+		"id": 221,
 		"folder": "Chizuru",
 		"mod_title": "Mizuhara",
 		"mod_creator": "Penguinologist",
@@ -2664,7 +2664,7 @@
 		"category": "0"
 	},
 	{
-		"id": 2,
+		"id": 220,
 		"folder": "Dinosaures",
 		"mod_title": "Paprika",
 		"mod_creator": "Momma Iona",
@@ -2682,7 +2682,7 @@
 		"category": "0"
 	},
 	{
-		"id": 3,
+		"id": 219,
 		"folder": "industry_baby",
 		"mod_title": "INDUSTRY BABY",
 		"mod_creator": "Comment",
@@ -2700,7 +2700,7 @@
 		"category": "0"
 	},
 	{
-		"id": 7,
+		"id": 218,
 		"folder": "Tori Plays",
 		"mod_title": "Tori Plays",
 		"mod_creator": "JknCrayon",
@@ -2718,7 +2718,7 @@
 		"category": "0"
 	},
 	{
-		"id": 6,
+		"id": 217,
 		"folder": "Luna",
 		"mod_title": "Luna",
 		"mod_creator": "KB131313",
@@ -2736,7 +2736,7 @@
 		"category": "0"
 	},
 	{
-		"id": 5,
+		"id": 216,
 		"folder": "Futa_Judy",
 		"mod_title": "Futa Judy",
 		"mod_creator": "JunkDunk",
@@ -2754,7 +2754,7 @@
 		"category": "0"
 	},
 	{
-		"id": 4,
+		"id": 215,
 		"folder": "(FNF) Sarvente U Got That",
 		"mod_title": "Sarvente U Got That",
 		"mod_creator": "JO",
@@ -2772,7 +2772,7 @@
 		"category": "0"
 	},
 	{
-		"id": 8,
+		"id": 214,
 		"folder": "Kanojo",
 		"mod_title": "Kanojo",
 		"mod_creator": "Penguinologist",
@@ -2790,7 +2790,7 @@
 		"category": "0"
 	},
 	{
-		"id": 10,
+		"id": 213,
 		"folder": "trixie the clown",
 		"mod_title": "trixie the clown",
 		"mod_creator": "LineMan",
@@ -2808,7 +2808,7 @@
 		"category": "0"
 	},
 	{
-		"id": 9,
+		"id": 212,
 		"folder": "Klonoa",
 		"mod_title": "Klonoa",
 		"mod_creator": "JO",
@@ -2826,7 +2826,7 @@
 		"category": "0"
 	},
 	{
-		"id": 11,
+		"id": 211,
 		"folder": "03_jackvoiced",
 		"mod_title": "03_jackvoiced",
 		"mod_creator": "timmyvermicelli",
@@ -2844,7 +2844,7 @@
 		"category": "0"
 	},
 	{
-		"id": 351,
+		"id": 210,
 		"folder": "Wilford Wolf (Alt)",
 		"mod_title": "Wilford Wolf (Alt)",
 		"mod_creator": "-Ky-",
@@ -2860,9 +2860,9 @@
 		"download_type": "dropbox",
 		"tags": "original art,furry,gay,rechart",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 350,
+		"id": 209,
 		"folder": "Wilford - Move It Down (Alt)",
 		"mod_title": "Wilford - Move It Down (Alt)",
 		"mod_creator": "-Ky-",
@@ -2878,9 +2878,9 @@
 		"download_type": "dropbox",
 		"tags": "original art,furry,gay,rechart",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 349,
+		"id": 208,
 		"folder": "Wilford - Move It Down",
 		"mod_title": "Wilford - Move It Down",
 		"mod_creator": "-Ky-",
@@ -2896,9 +2896,9 @@
 		"download_type": "dropbox",
 		"tags": "original art,furry,gay,rechart",
 		"category": "0"
-	},		
+	},
 	{
-		"id": 348,
+		"id": 207,
 		"folder": "Wilford Wolf",
 		"mod_title": "Wilford Wolf",
 		"mod_creator": "-Ky-",
@@ -2914,9 +2914,9 @@
 		"download_type": "dropbox",
 		"tags": "original art,furry,gay",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 12,
+		"id": 206,
 		"folder": "Parappa",
 		"mod_title": "Parappa",
 		"mod_creator": "JOGamin",
@@ -2934,11 +2934,11 @@
 		"category": "0"
 	},
 	{
-		"id": 13,
+		"id": 205,
 		"folder": "test geneva",
 		"mod_title": "test geneva",
-		"mod_creator": "🍨🍰",
-		"mod_artist": "🍨🍰",
+		"mod_creator": "昏魂",
+		"mod_artist": "昏魂",
 		"song_artist": "Komdog",
 		"song_title": "Dinosaur",
 		"length": "2:21",
@@ -2952,11 +2952,11 @@
 		"category": "0"
 	},
 	{
-		"id": 17,
+		"id": 204,
 		"folder": "test iuno",
 		"mod_title": "test iuno",
-		"mod_creator": "🍨🍰",
-		"mod_artist": "🍨🍰",
+		"mod_creator": "昏魂",
+		"mod_artist": "昏魂",
 		"song_artist": "Komdog",
 		"song_title": "Judy Song",
 		"length": "2:15",
@@ -2970,7 +2970,7 @@
 		"category": "0"
 	},
 	{
-		"id": 16,
+		"id": 203,
 		"folder": "Target Komdog No Text",
 		"mod_title": "Target Komdog No Text",
 		"mod_creator": "Penguinologist",
@@ -2988,7 +2988,7 @@
 		"category": "0"
 	},
 	{
-		"id": 15,
+		"id": 202,
 		"folder": "Target Komdog",
 		"mod_title": "Target Komdog",
 		"mod_creator": "Penguinologist",
@@ -3006,7 +3006,7 @@
 		"category": "0"
 	},
 	{
-		"id": 14,
+		"id": 201,
 		"folder": "Jade (Newcro)",
 		"mod_title": "Jade (Newcro)",
 		"mod_creator": "Newcro",
@@ -3024,7 +3024,7 @@
 		"category": "0"
 	},
 	{
-		"id": 19,
+		"id": 200,
 		"folder": "Big Breedal Bang [HARD] (Shortstack Enjoyer)",
 		"mod_title": "Big Breedal Bang [HARD]",
 		"mod_creator": "Shortstack Enjoyer",
@@ -3042,7 +3042,7 @@
 		"category": "0"
 	},
 	{
-		"id": 18,
+		"id": 199,
 		"folder": "Big Breedal Bang (Shortstack Enjoyer)",
 		"mod_title": "Big Breedal Bang (SS Enjoyer)",
 		"mod_creator": "Shortstack Enjoyer",
@@ -3060,7 +3060,7 @@
 		"category": "0"
 	},
 	{
-		"id": 21,
+		"id": 198,
 		"folder": "Tiger Lily",
 		"mod_title": "Tiger Lily",
 		"mod_creator": "Wyoming Man",
@@ -3078,7 +3078,7 @@
 		"category": "0"
 	},
 	{
-		"id": 20,
+		"id": 197,
 		"folder": "Brooke Armadillo",
 		"mod_title": "Brooke Armadillo",
 		"mod_creator": "TheRulesDontApplyToTaco",
@@ -3096,10 +3096,10 @@
 		"category": "0"
 	},
 	{
-		"id": 22,
+		"id": 196,
 		"folder": "SylveonPOVfacefuck_updated",
 		"mod_title": "SylveonPOVfacefuck_updated",
-		"mod_creator": "TotalBlue™",
+		"mod_creator": "TotalBlue邃｢",
 		"mod_artist": "N/A",
 		"song_artist": "Komdog",
 		"song_title": "Judy Song",
@@ -3114,7 +3114,7 @@
 		"category": "0"
 	},
 	{
-		"id": 23,
+		"id": 195,
 		"folder": "Lucoa Parties Everyday",
 		"mod_title": "Lucoa Parties Everyday",
 		"mod_creator": "Penguinologist",
@@ -3132,7 +3132,7 @@
 		"category": "0"
 	},
 	{
-		"id": 28,
+		"id": 194,
 		"folder": "Toriel_Horse_Futa",
 		"mod_title": "Toriel Horse Futa",
 		"mod_creator": "TheRulesDontApplyToTaco/Komdong",
@@ -3150,7 +3150,7 @@
 		"category": "0"
 	},
 	{
-		"id": 27,
+		"id": 193,
 		"folder": "Toriel_Horse_Futa_HARD",
 		"mod_title": "Toriel Horse Futa HARD",
 		"mod_creator": "TheRulesDontApplyToTaco/Komdong",
@@ -3168,7 +3168,7 @@
 		"category": "0"
 	},
 	{
-		"id": 26,
+		"id": 192,
 		"folder": "Tulip Olsen",
 		"mod_title": "Tulip Olsen",
 		"mod_creator": "Wyoming Man",
@@ -3186,7 +3186,7 @@
 		"category": "0"
 	},
 	{
-		"id": 25,
+		"id": 191,
 		"folder": "Sex Machine",
 		"mod_title": "Sex Machine",
 		"mod_creator": "Ruka",
@@ -3204,7 +3204,7 @@
 		"category": "0"
 	},
 	{
-		"id": 24,
+		"id": 190,
 		"folder": "Nicole Keeps Rockin",
 		"mod_title": "Nicole Keeps Rockin",
 		"mod_creator": "Penguinologist",
@@ -3222,7 +3222,7 @@
 		"category": "0"
 	},
 	{
-		"id": 31,
+		"id": 189,
 		"folder": "E N A",
 		"mod_title": "E N A",
 		"mod_creator": "Wyoming Man",
@@ -3240,7 +3240,7 @@
 		"category": "0"
 	},
 	{
-		"id": 30,
+		"id": 188,
 		"folder": "(FNF) Skid and Pump (SNS)",
 		"mod_title": "Skid and Pump (SNS) Follow the Beat",
 		"mod_creator": "Just Kinda",
@@ -3258,7 +3258,7 @@
 		"category": "0"
 	},
 	{
-		"id": 29,
+		"id": 187,
 		"folder": "(FNF) Skid and Pump",
 		"mod_title": "Skid and Pump Follow the Beat",
 		"mod_creator": "Just Kinda",
@@ -3276,7 +3276,7 @@
 		"category": "0"
 	},
 	{
-		"id": 32,
+		"id": 186,
 		"folder": "Succubus1.0",
 		"mod_title": "Succubus1.0",
 		"mod_creator": "Ruka",
@@ -3294,7 +3294,7 @@
 		"category": "0"
 	},
 	{
-		"id": 33,
+		"id": 185,
 		"folder": "Succubus Castle",
 		"mod_title": "SUCCUBUS CASTLE - Floor 1",
 		"mod_creator": "Ruka",
@@ -3312,7 +3312,7 @@
 		"category": "0"
 	},
 	{
-		"id": 35,
+		"id": 184,
 		"folder": "Hot Mashup",
 		"mod_title": "Hot Mashup",
 		"mod_creator": "Penguinologist",
@@ -3330,7 +3330,7 @@
 		"category": "0"
 	},
 	{
-		"id": 34,
+		"id": 183,
 		"folder": "Daestra v2",
 		"mod_title": "Daestra v2",
 		"mod_creator": "SetherSenter",
@@ -3348,7 +3348,7 @@
 		"category": "0"
 	},
 	{
-		"id": 38,
+		"id": 182,
 		"folder": "Pandaren V (Newcro) Warriors",
 		"mod_title": "Pandaren V (Newcro) Warriors",
 		"mod_creator": "DeltaUnit38",
@@ -3366,7 +3366,7 @@
 		"category": "0"
 	},
 	{
-		"id": 37,
+		"id": 181,
 		"folder": "Kurorak Mod V1.0 (iWTBAT)",
 		"mod_title": "Kurorak Mod",
 		"mod_creator": "iWTBAT",
@@ -3384,7 +3384,7 @@
 		"category": "0"
 	},
 	{
-		"id": 36,
+		"id": 180,
 		"folder": "Kindred Supertoast",
 		"mod_title": "Kindred Supertoast",
 		"mod_creator": "DeltaUnit38",
@@ -3402,7 +3402,7 @@
 		"category": "0"
 	},
 	{
-		"id": 40,
+		"id": 179,
 		"folder": "Despair Mashup",
 		"mod_title": "Despair Mashup",
 		"mod_creator": "Penguinologist",
@@ -3420,7 +3420,7 @@
 		"category": "0"
 	},
 	{
-		"id": 39,
+		"id": 178,
 		"folder": "Avacon Hide & Seek Vairo",
 		"mod_title": "Avacon Hide & Seek",
 		"mod_creator": "DeltaUnit38",
@@ -3438,7 +3438,7 @@
 		"category": "0"
 	},
 	{
-		"id": 41,
+		"id": 177,
 		"folder": "GoombTwerkTest2",
 		"mod_title": "GoombTwerkTest2",
 		"mod_creator": "appelfriuts",
@@ -3456,7 +3456,7 @@
 		"category": "0"
 	},
 	{
-		"id": 42,
+		"id": 176,
 		"folder": "Retsuko",
 		"mod_title": "Retsuko & Lex",
 		"mod_creator": "Queen Susie & Anonymous",
@@ -3474,7 +3474,7 @@
 		"category": "0"
 	},
 	{
-		"id": 46,
+		"id": 175,
 		"folder": "Judy Biggest Problem (Horse Hotdrum)",
 		"mod_title": "Judy Biggest Problem (Horse - HotDrum)",
 		"mod_creator": "Just Kinda / Edited By Anonymous",
@@ -3492,7 +3492,7 @@
 		"category": "0"
 	},
 	{
-		"id": 45,
+		"id": 174,
 		"folder": "Judy Biggest Problem (Horse Anal)",
 		"mod_title": "Judy Biggest Problem Anal (Horse)",
 		"mod_creator": "Just Kinda / Edited By Anonymous",
@@ -3510,7 +3510,7 @@
 		"category": "0"
 	},
 	{
-		"id": 44,
+		"id": 173,
 		"folder": "Judy Biggest Problem (Horse Anal - ATWT)",
 		"mod_title": "Judy Biggest Problem Anal (Horse - ATWT Warning)",
 		"mod_creator": "Just Kinda / Edited By Anonymous",
@@ -3528,7 +3528,7 @@
 		"category": "0"
 	},
 	{
-		"id": 43,
+		"id": 172,
 		"folder": "Asriel and Toriel's Dirty Secret",
 		"mod_title": "Asriel and Toriel's Dirty Secret",
 		"mod_creator": "Penguinologist",
@@ -3546,7 +3546,7 @@
 		"category": "0"
 	},
 	{
-		"id": 49,
+		"id": 171,
 		"folder": "BythosPeg",
 		"mod_title": "Bythos pegs your butthole",
 		"mod_creator": "Supersecretsoup",
@@ -3564,7 +3564,7 @@
 		"category": "0"
 	},
 	{
-		"id": 48,
+		"id": 170,
 		"folder": "Beta X Mean BF",
 		"mod_title": "Beta X Mean BF",
 		"mod_creator": "Komdog",
@@ -3582,7 +3582,7 @@
 		"category": "0"
 	},
 	{
-		"id": 47,
+		"id": 169,
 		"folder": "Asriel and Toriel's Dirty Secret Alt",
 		"mod_title": "A+T Dirty Secret (Alt)",
 		"mod_creator": "chehob",
@@ -3600,7 +3600,7 @@
 		"category": "0"
 	},
 	{
-		"id": 50,
+		"id": 168,
 		"folder": "Splat.v1",
 		"mod_title": "Splat.v1",
 		"mod_creator": "anonghoulie",
@@ -3618,7 +3618,7 @@
 		"category": "0"
 	},
 	{
-		"id": 52,
+		"id": 167,
 		"folder": "Minus Soul Boi (Dialouge Addon)",
 		"mod_title": "Minus Soul Boi (Dialouge Addon)",
 		"mod_creator": "Komdog",
@@ -3636,7 +3636,7 @@
 		"category": "0"
 	},
 	{
-		"id": 51,
+		"id": 166,
 		"folder": "Minus Soul Boi",
 		"mod_title": "Minus Soul Boi",
 		"mod_creator": "Komdog",
@@ -3654,7 +3654,7 @@
 		"category": "0"
 	},
 	{
-		"id": 53,
+		"id": 165,
 		"folder": "Komdog Chariot",
 		"mod_title": "Komdog Chariot",
 		"mod_creator": "Penguinologist",
@@ -3672,7 +3672,7 @@
 		"category": "0"
 	},
 	{
-		"id": 56,
+		"id": 164,
 		"folder": "Mae_Borowski_Dialogue",
 		"mod_title": "Mae Borowski Dialogue",
 		"mod_creator": "Potatochip & Spooks & ThisAccountDoesExist",
@@ -3690,7 +3690,7 @@
 		"category": "0"
 	},
 	{
-		"id": 55,
+		"id": 163,
 		"folder": "Asriel Toriel BJ",
 		"mod_title": "Toriel/Asriel BJ",
 		"mod_creator": "Cerovitch",
@@ -3708,7 +3708,7 @@
 		"category": "0"
 	},
 	{
-		"id": 54,
+		"id": 162,
 		"folder": "00_Mae Borowski",
 		"mod_title": "Mae Borowski",
 		"mod_creator": "Potatochip & Spooks",
@@ -3726,7 +3726,7 @@
 		"category": "0"
 	},
 	{
-		"id": 57,
+		"id": 161,
 		"folder": "01_Mae Got Real",
 		"mod_title": "Mae Borowski Got Real",
 		"mod_creator": "Potatochip & Spooks",
@@ -3744,7 +3744,7 @@
 		"category": "0"
 	},
 	{
-		"id": 61,
+		"id": 160,
 		"folder": "Toriel x Asriel - Like It",
 		"mod_title": "Toriel x Asriel - Like It",
 		"mod_creator": "Just Kinda",
@@ -3762,7 +3762,7 @@
 		"category": "0"
 	},
 	{
-		"id": 60,
+		"id": 159,
 		"folder": "Serana Mod",
 		"mod_title": "Serana Mod",
 		"mod_creator": "Peacekeeper Timekss",
@@ -3780,7 +3780,7 @@
 		"category": "0"
 	},
 	{
-		"id": 59,
+		"id": 158,
 		"folder": "Mileena Mod (by Timekss)",
 		"mod_title": "Mileena Mod",
 		"mod_creator": "Peacekeeper Timekss",
@@ -3798,7 +3798,7 @@
 		"category": "0"
 	},
 	{
-		"id": 58,
+		"id": 157,
 		"folder": "Give It To Me Mashup",
 		"mod_title": "Give It To Me Mashup",
 		"mod_creator": "Penguinologist",
@@ -3816,7 +3816,7 @@
 		"category": "0"
 	},
 	{
-		"id": 63,
+		"id": 156,
 		"folder": "Yoshi Mod",
 		"mod_title": "Komdog Yoshi Mashup",
 		"mod_creator": "JOGamin (AKA JO)",
@@ -3834,7 +3834,7 @@
 		"category": "0"
 	},
 	{
-		"id": 62,
+		"id": 155,
 		"folder": "Judy Anal Mimimi",
 		"mod_title": "Judy Anal Mimimi",
 		"mod_creator": "BlackCpl",
@@ -3852,7 +3852,7 @@
 		"category": "0"
 	},
 	{
-		"id": 66,
+		"id": 154,
 		"folder": "Warcraft",
 		"mod_title": "Warcraft",
 		"mod_creator": "Loudstorm",
@@ -3870,7 +3870,7 @@
 		"category": "0"
 	},
 	{
-		"id": 65,
+		"id": 153,
 		"folder": "Party Till We Die discord",
 		"mod_title": "Party Till We Die/ Discord",
 		"mod_creator": "that_guy",
@@ -3888,7 +3888,7 @@
 		"category": "0"
 	},
 	{
-		"id": 64,
+		"id": 152,
 		"folder": "Lose CTRL Mashup",
 		"mod_title": "Lose CTRL Mashup",
 		"mod_creator": "Penguinologist",
@@ -3906,7 +3906,7 @@
 		"category": "0"
 	},
 	{
-		"id": 67,
+		"id": 151,
 		"folder": "Gardevoir_Mod_Hard_Millow",
 		"mod_title": "Gardevoir Hard",
 		"mod_creator": "DoogleSurface & JG",
@@ -3924,7 +3924,7 @@
 		"category": "0"
 	},
 	{
-		"id": 68,
+		"id": 150,
 		"folder": "Bounce Mashup",
 		"mod_title": "Bounce Mashup",
 		"mod_creator": "Penguinologist",
@@ -3942,7 +3942,7 @@
 		"category": "0"
 	},
 	{
-		"id": 69,
+		"id": 149,
 		"folder": "Chaos-0",
 		"mod_title": "(SA2B) Chaos",
 		"mod_creator": "@kiaradoesvrart",
@@ -3960,7 +3960,7 @@
 		"category": "0"
 	},
 	{
-		"id": 72,
+		"id": 148,
 		"folder": "Tails x Lex (ALT) - SPICY!",
 		"mod_title": "Tails Alt Hard",
 		"mod_creator": "Queen Susie & Anonymous",
@@ -3978,7 +3978,7 @@
 		"category": "0"
 	},
 	{
-		"id": 71,
+		"id": 147,
 		"folder": "Tails x Lex (ALT)",
 		"mod_title": "Tails (ALT)",
 		"mod_creator": "Queen Susie & Anonymous",
@@ -3996,7 +3996,7 @@
 		"category": "0"
 	},
 	{
-		"id": 70,
+		"id": 146,
 		"folder": "Tails x Lex",
 		"mod_title": "Tails",
 		"mod_creator": "Queen Susie & Anonymous",
@@ -4014,7 +4014,7 @@
 		"category": "0"
 	},
 	{
-		"id": 73,
+		"id": 145,
 		"folder": "SuperiorFox compilation",
 		"mod_title": "SuperiorFox compilation",
 		"mod_creator": "AE-V3",
@@ -4032,7 +4032,7 @@
 		"category": "0"
 	},
 	{
-		"id": 74,
+		"id": 144,
 		"folder": "Daestra",
 		"mod_title": "Daestra",
 		"mod_creator": "SetherSenter",
@@ -4050,7 +4050,7 @@
 		"category": "0"
 	},
 	{
-		"id": 78,
+		"id": 143,
 		"folder": "Sophie Walten voiced",
 		"mod_title": "Sophie Walten voiced",
 		"mod_creator": "dSAFdaffadsf/WyomingMan",
@@ -4068,7 +4068,7 @@
 		"category": "0"
 	},
 	{
-		"id": 77,
+		"id": 142,
 		"folder": "Noelle Holiday voiced",
 		"mod_title": "Noelle Holiday voiced",
 		"mod_creator": "dSAFdaffadsf/WyomingMan",
@@ -4086,7 +4086,7 @@
 		"category": "0"
 	},
 	{
-		"id": 76,
+		"id": 141,
 		"folder": "Gardevoir Original by Millow (No Caption)",
 		"mod_title": "Gardevoir (base) by Millow",
 		"mod_creator": "MillowsArt",
@@ -4104,7 +4104,7 @@
 		"category": "0"
 	},
 	{
-		"id": 75,
+		"id": 140,
 		"folder": "Gardevoir Original by Millow",
 		"mod_title": "Gardevoir by Millow",
 		"mod_creator": "MillowsArt",
@@ -4122,7 +4122,7 @@
 		"category": "0"
 	},
 	{
-		"id": 79,
+		"id": 139,
 		"folder": "Hataraki Ari mini compilation",
 		"mod_title": "Hataraki Ari mini compilation",
 		"mod_creator": "AE-V3",
@@ -4140,7 +4140,7 @@
 		"category": "0"
 	},
 	{
-		"id": 81,
+		"id": 138,
 		"folder": "Cloud",
 		"mod_title": "Cloud Star",
 		"mod_creator": "LineMan",
@@ -4158,7 +4158,7 @@
 		"category": "0"
 	},
 	{
-		"id": 80,
+		"id": 137,
 		"folder": "Nomana (Newcro)",
 		"mod_title": "Nomana (Newcro)",
 		"mod_creator": "Newcro",
@@ -4176,7 +4176,7 @@
 		"category": "0"
 	},
 	{
-		"id": 82,
+		"id": 136,
 		"folder": "Fairy Levianthan",
 		"mod_title": "Fairy Levianthan",
 		"mod_creator": "Wyoming Man",
@@ -4194,7 +4194,7 @@
 		"category": "0"
 	},
 	{
-		"id": 88,
+		"id": 135,
 		"folder": "04_sky",
 		"mod_title": "04_sky",
 		"mod_creator": "The8thJudgement, Wawa",
@@ -4212,7 +4212,7 @@
 		"category": "0"
 	},
 	{
-		"id": 87,
+		"id": 134,
 		"folder": "03_ruria",
 		"mod_title": "03_ruria",
 		"mod_creator": "The8thJudgement, Wawa",
@@ -4230,7 +4230,7 @@
 		"category": "0"
 	},
 	{
-		"id": 86,
+		"id": 133,
 		"folder": "02_softy",
 		"mod_title": "02_softy",
 		"mod_creator": "The8thJudgement, Wawa",
@@ -4248,7 +4248,7 @@
 		"category": "0"
 	},
 	{
-		"id": 85,
+		"id": 132,
 		"folder": "01_taki",
 		"mod_title": "01_taki",
 		"mod_creator": "The8thJudgement, Wawa",
@@ -4266,7 +4266,7 @@
 		"category": "0"
 	},
 	{
-		"id": 84,
+		"id": 131,
 		"folder": "00_tea",
 		"mod_title": "00_tea",
 		"mod_creator": "The8thJudgement",
@@ -4284,7 +4284,7 @@
 		"category": "0"
 	},
 	{
-		"id": 83,
+		"id": 130,
 		"folder": "00_fnf",
 		"mod_title": "FNF",
 		"mod_creator": "Yeeto man",
@@ -4302,7 +4302,7 @@
 		"category": "0"
 	},
 	{
-		"id": 89,
+		"id": 129,
 		"folder": "Reverse Food Chain",
 		"mod_title": "Reverse Food Chain",
 		"mod_creator": "AE-V3",
@@ -4320,7 +4320,7 @@
 		"category": "0"
 	},
 	{
-		"id": 94,
+		"id": 128,
 		"folder": "MonacaGrind",
 		"mod_title": "MonacaGrind",
 		"mod_creator": "Supersecretsoup",
@@ -4338,7 +4338,7 @@
 		"category": "0"
 	},
 	{
-		"id": 93,
+		"id": 127,
 		"folder": "MaggieRedoneCUM",
 		"mod_title": "MaggieRedone",
 		"mod_creator": "Just Kinda & AspiringNoodle & Supersecretsoup",
@@ -4356,7 +4356,7 @@
 		"category": "0"
 	},
 	{
-		"id": 92,
+		"id": 126,
 		"folder": "MaggieRedone",
 		"mod_title": "MaggieRedone",
 		"mod_creator": "Just Kinda & AspiringNoodle & Supersecretsoup",
@@ -4374,7 +4374,7 @@
 		"category": "0"
 	},
 	{
-		"id": 91,
+		"id": 125,
 		"folder": "Demonic Toriel (Wonderland Ver)",
 		"mod_title": "Demonic Toriel (Wonderland Ver)",
 		"mod_creator": "KitsuneChibi",
@@ -4392,7 +4392,7 @@
 		"category": "0"
 	},
 	{
-		"id": 90,
+		"id": 124,
 		"folder": "Blaster Master - Juicy Kanna",
 		"mod_title": "Blaster Master - Juicy Kanna",
 		"mod_creator": "Just Kinda",
@@ -4410,7 +4410,7 @@
 		"category": "0"
 	},
 	{
-		"id": 97,
+		"id": 123,
 		"folder": "sparkles in september",
 		"mod_title": "sparkles in september",
 		"mod_creator": "weeb white",
@@ -4428,7 +4428,7 @@
 		"category": "0"
 	},
 	{
-		"id": 96,
+		"id": 122,
 		"folder": "Princess Ruto",
 		"mod_title": "Princess Ruto",
 		"mod_creator": "Wyoming Man",
@@ -4446,7 +4446,7 @@
 		"category": "0"
 	},
 	{
-		"id": 95,
+		"id": 121,
 		"folder": "IceCherbSkipAnthro",
 		"mod_title": "Ice Cherbil Skip Anthro",
 		"mod_creator": "Supersecretsoup",
@@ -4464,7 +4464,7 @@
 		"category": "0"
 	},
 	{
-		"id": 100,
+		"id": 120,
 		"folder": "Noelle Holiday",
 		"mod_title": "Noelle Holiday",
 		"mod_creator": "Wyoming Man",
@@ -4482,7 +4482,7 @@
 		"category": "0"
 	},
 	{
-		"id": 99,
+		"id": 119,
 		"folder": "BlasterMaster Kanna - HARD",
 		"mod_title": "BlasterMaster Kanna HARD",
 		"mod_creator": "TheRulesDontApplyToTaco",
@@ -4500,7 +4500,7 @@
 		"category": "0"
 	},
 	{
-		"id": 98,
+		"id": 118,
 		"folder": "BlasterMaster Kanna",
 		"mod_title": "BlasterMaster Kanna",
 		"mod_creator": "TheRulesDontApplyToTaco",
@@ -4518,7 +4518,7 @@
 		"category": "0"
 	},
 	{
-		"id": 101,
+		"id": 117,
 		"folder": "04_Fluttershy goth",
 		"mod_title": "04_Fluttershy goth",
 		"mod_creator": "The8thJudgement",
@@ -4536,7 +4536,7 @@
 		"category": "0"
 	},
 	{
-		"id": 102,
+		"id": 116,
 		"folder": "Sexsong",
 		"mod_title": "Sexsong (Silksex Rechart)",
 		"mod_creator": "Cod3, Just Kinda & Shortstack Enjoyer",
@@ -4554,7 +4554,7 @@
 		"category": "0"
 	},
 	{
-		"id": 103,
+		"id": 115,
 		"folder": "Silksex",
 		"mod_title": "Hollow Knight - Silksex",
 		"mod_creator": "Cod3 & Just Kinda",
@@ -4572,7 +4572,7 @@
 		"category": "0"
 	},
 	{
-		"id": 104,
+		"id": 114,
 		"folder": "Chocolate Judy",
 		"mod_title": "Chocolate Judy",
 		"mod_creator": "LucariotheSkeleton",
@@ -4590,7 +4590,7 @@
 		"category": "0"
 	},
 	{
-		"id": 105,
+		"id": 113,
 		"folder": "Hooded!Syrana",
 		"mod_title": "Hooded!Syrana",
 		"mod_creator": "LucariotheSkeleton",
@@ -4608,7 +4608,7 @@
 		"category": "0"
 	},
 	{
-		"id": 107,
+		"id": 112,
 		"folder": "Sha the Sheep",
 		"mod_title": "Sha the Sheep",
 		"mod_creator": "Wyoming Man",
@@ -4626,7 +4626,7 @@
 		"category": "0"
 	},
 	{
-		"id": 106,
+		"id": 111,
 		"folder": "Luca mod",
 		"mod_title": "Luca Mod",
 		"mod_creator": "LucariotheSkeleton",
@@ -4698,7 +4698,7 @@
 		"category": "0"
 	},
 	{
-		"id": 111,
+		"id": 107,
 		"folder": "I've come for you Princess!",
 		"mod_title": "Princess & Conquest",
 		"mod_creator": "KitsuneChibi",
@@ -4716,7 +4716,7 @@
 		"category": "0"
 	},
 	{
-		"id": 112,
+		"id": 106,
 		"folder": "Beastars Got That Moves",
 		"mod_title": "Beastars Got That Moves",
 		"mod_creator": "AE-V3",
@@ -4734,7 +4734,7 @@
 		"category": "0"
 	},
 	{
-		"id": 113,
+		"id": 105,
 		"folder": "Clyde II",
 		"mod_title": "Clyse II",
 		"mod_creator": "Sad Rytmid",
@@ -4752,7 +4752,7 @@
 		"category": "0"
 	},
 	{
-		"id": 115,
+		"id": 104,
 		"folder": "Demonic Toriel Horsecock (Alt Song)",
 		"mod_title": "Demonic Toriel Horsecock (Alt Song)",
 		"mod_creator": "TheRulesDontApplyToTaco",
@@ -4770,7 +4770,7 @@
 		"category": "0"
 	},
 	{
-		"id": 114,
+		"id": 103,
 		"folder": "Bossfight - Warp  Mashup",
 		"mod_title": "Bossfight - Warp Mashup",
 		"mod_creator": "DeltaUnit38",
@@ -4788,7 +4788,7 @@
 		"category": "0"
 	},
 	{
-		"id": 116,
+		"id": 102,
 		"folder": "Lets Go Vaporeon!",
 		"mod_title": "Lets Go Vaporeon!",
 		"mod_creator": "DeltaUnit38",
@@ -4806,7 +4806,7 @@
 		"category": "0"
 	},
 	{
-		"id": 117,
+		"id": 101,
 		"folder": "Yoshi Push It",
 		"mod_title": "Yoshi Push It",
 		"mod_creator": "Penguinologist",
@@ -4824,7 +4824,7 @@
 		"category": "0"
 	},
 	{
-		"id": 122,
+		"id": 100,
 		"folder": "Snuffy",
 		"mod_title": "Snuffy (Newcro) Paralyzed",
 		"mod_creator": "Chacumera",
@@ -4842,7 +4842,7 @@
 		"category": "0"
 	},
 	{
-		"id": 121,
+		"id": 99,
 		"folder": "The Decnot (Newcro)",
 		"mod_title": "The Decnot (Newcro)",
 		"mod_creator": "Newcro",
@@ -4860,7 +4860,7 @@
 		"category": "0"
 	},
 	{
-		"id": 120,
+		"id": 98,
 		"folder": "tea",
 		"mod_title": "tea",
 		"mod_creator": "Negroide17",
@@ -4878,7 +4878,7 @@
 		"category": "0"
 	},
 	{
-		"id": 119,
+		"id": 97,
 		"folder": "Snuffy",
 		"mod_title": "Snuffy (Newcro) Zylvester",
 		"mod_creator": "Chacumera",
@@ -4896,7 +4896,7 @@
 		"category": "0"
 	},
 	{
-		"id": 118,
+		"id": 96,
 		"folder": "chill coffee",
 		"mod_title": "chill coffee",
 		"mod_creator": "DeltaUnit38",
@@ -4914,7 +4914,7 @@
 		"category": "0"
 	},
 	{
-		"id": 124,
+		"id": 95,
 		"folder": "Timme",
 		"mod_title": "Timme",
 		"mod_creator": "Timme",
@@ -4932,7 +4932,7 @@
 		"category": "0"
 	},
 	{
-		"id": 123,
+		"id": 94,
 		"folder": "Futa Tharja Taker Pov Clutch",
 		"mod_title": "Futa Tharja Taker Pov",
 		"mod_creator": "BlackCpl",
@@ -4950,7 +4950,7 @@
 		"category": "0"
 	},
 	{
-		"id": 125,
+		"id": 93,
 		"folder": "Jellybean Fucking",
 		"mod_title": "Jellybean fucking",
 		"mod_creator": "Bittersweet",
@@ -4968,7 +4968,7 @@
 		"category": "0"
 	},
 	{
-		"id": 127,
+		"id": 92,
 		"folder": "Pandaren V (Newcro) [Tattoo]",
 		"mod_title": "Pandaren V (Newcro) [Tattoo]",
 		"mod_creator": "Newcro",
@@ -4986,7 +4986,7 @@
 		"category": "0"
 	},
 	{
-		"id": 126,
+		"id": 91,
 		"folder": "Pandaren V (Newcro) [BB]",
 		"mod_title": "Pandaren V (Newcro) [BB]",
 		"mod_creator": "Newcro",
@@ -5004,7 +5004,7 @@
 		"category": "0"
 	},
 	{
-		"id": 129,
+		"id": 90,
 		"folder": "Lucoa-Dragon Maid OP",
 		"mod_title": "Lucoa-Dragon Maid OP",
 		"mod_creator": "Penguinologist",
@@ -5022,7 +5022,7 @@
 		"category": "0"
 	},
 	{
-		"id": 128,
+		"id": 89,
 		"folder": "Bring The Madness mashup",
 		"mod_title": "Bring The Madness Mashup",
 		"mod_creator": "DeltaUnit38",
@@ -5040,7 +5040,7 @@
 		"category": "0"
 	},
 	{
-		"id": 131,
+		"id": 88,
 		"folder": "Jaiden funtime",
 		"mod_title": "Jaiden funtime",
 		"mod_creator": "Bittersweet/DeltaUnit38",
@@ -5058,7 +5058,7 @@
 		"category": "0"
 	},
 	{
-		"id": 130,
+		"id": 87,
 		"folder": "Freaky Komdog",
 		"mod_title": "Freaky Komdog",
 		"mod_creator": "Penguinologist",
@@ -5076,7 +5076,7 @@
 		"category": "0"
 	},
 	{
-		"id": 132,
+		"id": 86,
 		"folder": "Pandaren V (Newcro)",
 		"mod_title": "Pandaren V (Newcro)",
 		"mod_creator": "Newcro",
@@ -5094,7 +5094,7 @@
 		"category": "0"
 	},
 	{
-		"id": 134,
+		"id": 85,
 		"folder": "Run Rabbit Run",
 		"mod_title": "Run Rabbit Run",
 		"mod_creator": "Penguinologist",
@@ -5112,7 +5112,7 @@
 		"category": "0"
 	},
 	{
-		"id": 133,
+		"id": 84,
 		"folder": "Judy - Melty",
 		"mod_title": "Judy - Melty",
 		"mod_creator": "M",
@@ -5130,7 +5130,7 @@
 		"category": "0"
 	},
 	{
-		"id": 136,
+		"id": 83,
 		"folder": "Futa Asriel Selfsuck",
 		"mod_title": "Futa Asriel Selfsuck",
 		"mod_creator": "ThisAccountDoesExist",
@@ -5148,7 +5148,7 @@
 		"category": "0"
 	},
 	{
-		"id": 135,
+		"id": 82,
 		"folder": "Toriel Horsecock Selfsuck",
 		"mod_title": "Toriel Horsecock Selfsuck",
 		"mod_creator": "ThisAccountDoesExist",
@@ -5166,7 +5166,7 @@
 		"category": "0"
 	},
 	{
-		"id": 137,
+		"id": 81,
 		"folder": "Yoshi Got Real - Expressions compilation",
 		"mod_title": "Yoshi Got Real - Expressions compilation",
 		"mod_creator": "KitsuneChibi",
@@ -5184,7 +5184,7 @@
 		"category": "0"
 	},
 	{
-		"id": 138,
+		"id": 80,
 		"folder": "Paladins_Pepper",
 		"mod_title": "Pepper_(Paladins)",
 		"mod_creator": "@Amamizu_SL",
@@ -5202,7 +5202,7 @@
 		"category": "0"
 	},
 	{
-		"id": 140,
+		"id": 79,
 		"folder": "Dragon",
 		"mod_title": "Dragon's Den",
 		"mod_creator": "Void",
@@ -5220,7 +5220,7 @@
 		"category": "0"
 	},
 	{
-		"id": 139,
+		"id": 78,
 		"folder": "Amy Rose",
 		"mod_title": "Amy Rose",
 		"mod_creator": "Shortstack Enjoyer",
@@ -5238,7 +5238,7 @@
 		"category": "0"
 	},
 	{
-		"id": 141,
+		"id": 77,
 		"folder": "Demonic Toriel (Alt Song)",
 		"mod_title": "Demonic Toriel (Alt Song)",
 		"mod_creator": "TheRulesDontApplyToTaco",
@@ -5256,7 +5256,7 @@
 		"category": "0"
 	},
 	{
-		"id": 148,
+		"id": 76,
 		"folder": "Toriel Bikini",
 		"mod_title": "Toriel Cow Bikini",
 		"mod_creator": "RulesDontApplytoTaco",
@@ -5274,7 +5274,7 @@
 		"category": "0"
 	},
 	{
-		"id": 147,
+		"id": 75,
 		"folder": "IceCherbSkipDenial",
 		"mod_title": "Ice Cherbil Skip DENIAL",
 		"mod_creator": "Supersecretsoup",
@@ -5292,7 +5292,7 @@
 		"category": "0"
 	},
 	{
-		"id": 146,
+		"id": 74,
 		"folder": "IceCherbSkipAnthroDenial",
 		"mod_title": "Ice Cherbil Skip Anthro DENIAL",
 		"mod_creator": "Supersecretsoup",
@@ -5310,7 +5310,7 @@
 		"category": "0"
 	},
 	{
-		"id": 145,
+		"id": 73,
 		"folder": "Demonic Toriel (HELL Mode)",
 		"mod_title": "Demonic Toriel",
 		"mod_creator": "TheRulesDontApplyToTaco",
@@ -5328,7 +5328,7 @@
 		"category": "0"
 	},
 	{
-		"id": 144,
+		"id": 72,
 		"folder": "decnot (taco's chart)",
 		"mod_title": "skele decnot taco chart",
 		"mod_creator": "Decnot",
@@ -5346,7 +5346,7 @@
 		"category": "0"
 	},
 	{
-		"id": 143,
+		"id": 71,
 		"folder": "decnot",
 		"mod_title": "skele decnot",
 		"mod_creator": "Decnot",
@@ -5364,7 +5364,7 @@
 		"category": "0"
 	},
 	{
-		"id": 142,
+		"id": 70,
 		"folder": "Champa",
 		"mod_title": "Champa",
 		"mod_creator": "Salsa",
@@ -5382,7 +5382,7 @@
 		"category": "0"
 	},
 	{
-		"id": 149,
+		"id": 69,
 		"folder": "IceCherbSkip",
 		"mod_title": "Motherfuckin Ice Cherbil Skip",
 		"mod_creator": "Supersecretsoup",
@@ -5400,7 +5400,7 @@
 		"category": "0"
 	},
 	{
-		"id": 153,
+		"id": 68,
 		"folder": "Toriel Reskin Compilation",
 		"mod_title": "Toriel Reskin compilation",
 		"mod_creator": "CheethuluThePleb",
@@ -5418,7 +5418,7 @@
 		"category": "0"
 	},
 	{
-		"id": 152,
+		"id": 67,
 		"folder": "Haru (Newcro) [Anal]",
 		"mod_title": "Haru (Newcro) [Anal]",
 		"mod_creator": "Newcro",
@@ -5436,7 +5436,7 @@
 		"category": "0"
 	},
 	{
-		"id": 151,
+		"id": 66,
 		"folder": "Haru (Newcro)",
 		"mod_title": "Haru (Newcro)",
 		"mod_creator": "Newcro",
@@ -5454,7 +5454,7 @@
 		"category": "0"
 	},
 	{
-		"id": 150,
+		"id": 65,
 		"folder": "Good Dog, Best Friend",
 		"mod_title": "Good Dog, Best Friend",
 		"mod_creator": "Edited by Cerovitch",
@@ -5472,7 +5472,7 @@
 		"category": "0"
 	},
 	{
-		"id": 154,
+		"id": 64,
 		"folder": "B_chan",
 		"mod_title": "B_chan",
 		"mod_creator": "axeltakitos2",
@@ -5490,7 +5490,7 @@
 		"category": "0"
 	},
 	{
-		"id": 157,
+		"id": 63,
 		"folder": "Judy - Fasten Your Seatbelt (Shorter Ver.)",
 		"mod_title": "Judy - Fasten Your Seatbelt (Shorter Ver.)",
 		"mod_creator": "SomewhereMan",
@@ -5508,7 +5508,7 @@
 		"category": "0"
 	},
 	{
-		"id": 156,
+		"id": 62,
 		"folder": "Judy - Fasten Your Seatbelt (Short Ver.)",
 		"mod_title": "Judy - Fasten Your Seatbelt (Short Ver.)",
 		"mod_creator": "SomewhereMan",
@@ -5526,7 +5526,7 @@
 		"category": "0"
 	},
 	{
-		"id": 155,
+		"id": 61,
 		"folder": "Judy - Fasten Your Seatbelt",
 		"mod_title": "Judy - Fasten Your Seatbelt",
 		"mod_creator": "SomewhereMan",
@@ -5544,7 +5544,7 @@
 		"category": "0"
 	},
 	{
-		"id": 158,
+		"id": 60,
 		"folder": "Wave's Glaze",
 		"mod_title": "Wave's Glaze",
 		"mod_creator": "unconsidered",
@@ -5562,7 +5562,7 @@
 		"category": "0"
 	},
 	{
-		"id": 159,
+		"id": 59,
 		"folder": "Black goat Inscryption",
 		"mod_title": "Black Goat Maid",
 		"mod_creator": "J.J.",
@@ -5580,7 +5580,7 @@
 		"category": "0"
 	},
 	{
-		"id": 160,
+		"id": 58,
 		"folder": "League_Nami_the_Tidecaller",
 		"mod_title": "League_Nami_the_Tidecaller",
 		"mod_creator": "Oimon",
@@ -5598,7 +5598,7 @@
 		"category": "0"
 	},
 	{
-		"id": 161,
+		"id": 57,
 		"folder": "Infection",
 		"mod_title": "Infection by ImNotFromFBI",
 		"mod_creator": "ImNotFromFBI",
@@ -5616,7 +5616,7 @@
 		"category": "0"
 	},
 	{
-		"id": 163,
+		"id": 56,
 		"folder": "Throat Goat",
 		"mod_title": "Throat Goat",
 		"mod_creator": "KitsuneChibi",
@@ -5634,7 +5634,7 @@
 		"category": "0"
 	},
 	{
-		"id": 162,
+		"id": 55,
 		"folder": "Charlotte Webster (SpooderMom)",
 		"mod_title": "Charlotte Webster",
 		"mod_creator": "VoidBeerFloat n Spooderboi",
@@ -5652,7 +5652,7 @@
 		"category": "0"
 	},
 	{
-		"id": 166,
+		"id": 54,
 		"folder": "Toriel Compilation",
 		"mod_title": "Toriel compilation",
 		"mod_creator": "KitsuneChibi",
@@ -5670,7 +5670,7 @@
 		"category": "0"
 	},
 	{
-		"id": 165,
+		"id": 53,
 		"folder": "Dragon Toriel remodel & retexture by It's Vinnie Bae",
 		"mod_title": "Dragon Toriel remodel & retexture by It's Vinnie Bae",
 		"mod_creator": "Vinnie Bae",
@@ -5688,7 +5688,7 @@
 		"category": "0"
 	},
 	{
-		"id": 164,
+		"id": 52,
 		"folder": "BB Janet Titfuck by It's Vinnie Bae",
 		"mod_title": "BB Janet Titfuck by It's Vinnie Bae",
 		"mod_creator": "Vinnie Bae",
@@ -5706,7 +5706,7 @@
 		"category": "0"
 	},
 	{
-		"id": 168,
+		"id": 51,
 		"folder": "toon link",
 		"mod_title": "toon link",
 		"mod_creator": "decnot",
@@ -5724,7 +5724,7 @@
 		"category": "0"
 	},
 	{
-		"id": 167,
+		"id": 50,
 		"folder": "Officer Pai's Interrogation",
 		"mod_title": "Officer Pai's Interrogation",
 		"mod_creator": "Cod3 & Just Kinda",
@@ -5742,7 +5742,7 @@
 		"category": "0"
 	},
 	{
-		"id": 169,
+		"id": 49,
 		"folder": "Jude",
 		"mod_title": "Jude",
 		"mod_creator": "The8thJudgement",
@@ -5760,7 +5760,7 @@
 		"category": "0"
 	},
 	{
-		"id": 171,
+		"id": 48,
 		"folder": "Judy and the Big Black",
 		"mod_title": "Judy and the Big Black",
 		"mod_creator": "Just Kinda",
@@ -5778,7 +5778,7 @@
 		"category": "0"
 	},
 	{
-		"id": 170,
+		"id": 47,
 		"folder": "Judy and the Big Black [Horse]",
 		"mod_title": "Judy and the Big Black",
 		"mod_creator": "Just Kinda",
@@ -5796,7 +5796,7 @@
 		"category": "0"
 	},
 	{
-		"id": 173,
+		"id": 46,
 		"folder": "Gooze the Lilibee",
 		"mod_title": "Gooze the Lilibee",
 		"mod_creator": "Just Kinda",
@@ -5814,7 +5814,7 @@
 		"category": "0"
 	},
 	{
-		"id": 172,
+		"id": 45,
 		"folder": "Fudy",
 		"mod_title": "Futa Judy",
 		"mod_creator": "The8thJudgement",
@@ -5832,7 +5832,7 @@
 		"category": "0"
 	},
 	{
-		"id": 179,
+		"id": 44,
 		"folder": "dawna mabel (remake)",
 		"mod_title": "dawna mabel remake",
 		"mod_creator": "decnot",
@@ -5850,7 +5850,7 @@
 		"category": "0"
 	},
 	{
-		"id": 178,
+		"id": 43,
 		"folder": "Yoshi Mating Season",
 		"mod_title": "Yoshi Mating Season",
 		"mod_creator": "Just Kinda",
@@ -5868,7 +5868,7 @@
 		"category": "0"
 	},
 	{
-		"id": 177,
+		"id": 42,
 		"folder": "Ring Fit (Newcro) Talky",
 		"mod_title": "Ring Fit (Newcro) Talky",
 		"mod_creator": "Newcro",
@@ -5886,7 +5886,7 @@
 		"category": "0"
 	},
 	{
-		"id": 176,
+		"id": 41,
 		"folder": "Ring Fit (Newcro) [Anal] Talky",
 		"mod_title": "Ring Fit (Newcro) [Anal] Talky",
 		"mod_creator": "Newcro",
@@ -5904,7 +5904,7 @@
 		"category": "0"
 	},
 	{
-		"id": 175,
+		"id": 40,
 		"folder": "Ring Fit (Newcro) [Anal]",
 		"mod_title": "Ring Fit (Newcro) [Anal]",
 		"mod_creator": "Newcro",
@@ -5922,7 +5922,7 @@
 		"category": "0"
 	},
 	{
-		"id": 174,
+		"id": 39,
 		"folder": "Ring Fit (Newcro)",
 		"mod_title": "Ring Fit (Newcro)",
 		"mod_creator": "Newcro",
@@ -5940,7 +5940,7 @@
 		"category": "0"
 	},
 	{
-		"id": 180,
+		"id": 38,
 		"folder": "Clyde Mod 139 BPM",
 		"mod_title": "Clyde",
 		"mod_creator": "KitsuneChibi",
@@ -5958,7 +5958,7 @@
 		"category": "0"
 	},
 	{
-		"id": 181,
+		"id": 37,
 		"folder": "Haru and Legoshi only edit",
 		"mod_title": "Haru and Legoshi",
 		"mod_creator": "Grames edited by Holy Pukkidyr",
@@ -5976,7 +5976,7 @@
 		"category": "0"
 	},
 	{
-		"id": 182,
+		"id": 36,
 		"folder": "Vaporeon Surprise",
 		"mod_title": "Vaporeon Surprise",
 		"mod_creator": "DumDoge",
@@ -5994,7 +5994,7 @@
 		"category": "0"
 	},
 	{
-		"id": 185,
+		"id": 35,
 		"folder": "Bun Power",
 		"mod_title": "Bun Power (Brain Power 2: More Brain)",
 		"mod_creator": "Whoever made the initial Brain Power mod, they didn't credit themselfs and Lincoln6Echo",
@@ -6012,7 +6012,7 @@
 		"category": "0"
 	},
 	{
-		"id": 184,
+		"id": 34,
 		"folder": "Ilulu",
 		"mod_title": "Ilulu",
 		"mod_creator": "KitsuneChibi",
@@ -6030,7 +6030,7 @@
 		"category": "0"
 	},
 	{
-		"id": 183,
+		"id": 33,
 		"folder": "Musketeer (Newcro) [Cchart]",
 		"mod_title": "Musketeer (Newcro) [Cchart]",
 		"mod_creator": "Newcro",
@@ -6048,7 +6048,7 @@
 		"category": "0"
 	},
 	{
-		"id": 186,
+		"id": 32,
 		"folder": "Avacon Hide & Seek 154bpm",
 		"mod_title": "Avacon Hide & Seek",
 		"mod_creator": "Hide & Seek (Voodevil Remix)",
@@ -6066,7 +6066,7 @@
 		"category": "0"
 	},
 	{
-		"id": 187,
+		"id": 31,
 		"folder": "Avacon Hide & Seek 139bpm",
 		"mod_title": "Avacon Hide & Seek",
 		"mod_creator": "Hide & Seek (Voodevil Remix)",
@@ -6084,7 +6084,7 @@
 		"category": "0"
 	},
 	{
-		"id": 189,
+		"id": 30,
 		"folder": "Christmas Judy HARD",
 		"mod_title": "Christmas Judy HARD",
 		"mod_creator": "TheRulesDontApplytoTaco",
@@ -6102,7 +6102,7 @@
 		"category": "0"
 	},
 	{
-		"id": 188,
+		"id": 29,
 		"folder": "D!CK - DOJA CAT",
 		"mod_title": "D!CK",
 		"mod_creator": "PRMMRX",
@@ -6120,7 +6120,7 @@
 		"category": "0"
 	},
 	{
-		"id": 193,
+		"id": 28,
 		"folder": "speckled twerk",
 		"mod_title": "Bird Twerk [R]",
 		"mod_creator": "appelfriuts",
@@ -6138,7 +6138,7 @@
 		"category": "0"
 	},
 	{
-		"id": 192,
+		"id": 27,
 		"folder": "goldenplume twerk",
 		"mod_title": "Bird Twerk [Y]",
 		"mod_creator": "appelfriuts",
@@ -6156,7 +6156,7 @@
 		"category": "0"
 	},
 	{
-		"id": 191,
+		"id": 26,
 		"folder": "bluebird twerk",
 		"mod_title": "Bird Twerk [B]",
 		"mod_creator": "appelfriuts",
@@ -6174,7 +6174,7 @@
 		"category": "0"
 	},
 	{
-		"id": 190,
+		"id": 25,
 		"folder": "blackbird twerk",
 		"mod_title": "Bird Twerk [G]",
 		"mod_creator": "appelfriuts",
@@ -6192,7 +6192,7 @@
 		"category": "0"
 	},
 	{
-		"id": 195,
+		"id": 24,
 		"folder": "Rouge HARD",
 		"mod_title": "Rouge HARD",
 		"mod_creator": "The Rules dont apply to taco",
@@ -6210,7 +6210,7 @@
 		"category": "0"
 	},
 	{
-		"id": 194,
+		"id": 23,
 		"folder": "Rouge",
 		"mod_title": "Rouge",
 		"mod_creator": "The Rules dont apply to taco",
@@ -6228,7 +6228,7 @@
 		"category": "0"
 	},
 	{
-		"id": 196,
+		"id": 22,
 		"folder": "Villainous Kindred",
 		"mod_title": "Villainous Kindred",
 		"mod_creator": "Cod3 & Just Kinda",
@@ -6246,7 +6246,7 @@
 		"category": "0"
 	},
 	{
-		"id": 198,
+		"id": 21,
 		"folder": "Archer (Newcro) [Anal]",
 		"mod_title": "Archer (Newcro) [Anal]",
 		"mod_creator": "Newcro",
@@ -6264,7 +6264,7 @@
 		"category": "0"
 	},
 	{
-		"id": 197,
+		"id": 20,
 		"folder": "Archer (Newcro)",
 		"mod_title": "Archer (Newcro)",
 		"mod_creator": "Newcro",
@@ -6282,7 +6282,7 @@
 		"category": "0"
 	},
 	{
-		"id": 199,
+		"id": 19,
 		"folder": "Ankha (Newcro, Custom Chart)",
 		"mod_title": "Ankha (Newcro, Custom Chart)",
 		"mod_creator": "Newcro (charting by Shortstack Enjoyer)",
@@ -6300,7 +6300,7 @@
 		"category": "0"
 	},
 	{
-		"id": 200,
+		"id": 18,
 		"folder": "Lopunny training_ano_(custom_chart)",
 		"mod_title": "Lopunny Training (Custom Chart)",
 		"mod_creator": "ano (charting by Shortstack Enjoyer)",
@@ -6318,7 +6318,7 @@
 		"category": "0"
 	},
 	{
-		"id": 201,
+		"id": 17,
 		"folder": "Lopunny training_ano",
 		"mod_title": "Lopunny training",
 		"mod_creator": "ano",
@@ -6336,7 +6336,7 @@
 		"category": "0"
 	},
 	{
-		"id": 203,
+		"id": 16,
 		"folder": "Ankha (Newcro)",
 		"mod_title": "Ankha (Newcro)",
 		"mod_creator": "Newcro",
@@ -6354,7 +6354,7 @@
 		"category": "0"
 	},
 	{
-		"id": 202,
+		"id": 15,
 		"folder": "Lopunny (Newcro)",
 		"mod_title": "Lopunny (Newcro)",
 		"mod_creator": "Newcro",
@@ -6372,7 +6372,7 @@
 		"category": "0"
 	},
 	{
-		"id": 204,
+		"id": 14,
 		"folder": "00_judy",
 		"mod_title": "Javi",
 		"mod_creator": "Yeeto man",
@@ -6390,7 +6390,7 @@
 		"category": "0"
 	},
 	{
-		"id": 205,
+		"id": 13,
 		"folder": "Haru",
 		"mod_title": "Haru",
 		"mod_creator": "Grames",
@@ -6408,7 +6408,7 @@
 		"category": "0"
 	},
 	{
-		"id": 206,
+		"id": 12,
 		"folder": "Rubber Rouge",
 		"mod_title": "Rubber Rouge",
 		"mod_creator": "unconsidered",
@@ -6426,7 +6426,7 @@
 		"category": "0"
 	},
 	{
-		"id": 207,
+		"id": 11,
 		"folder": "Makayla",
 		"mod_title": "Makayla",
 		"mod_creator": "Poi & ByteTheProto",
@@ -6444,7 +6444,7 @@
 		"category": "0"
 	},
 	{
-		"id": 212,
+		"id": 10,
 		"folder": "MagYoshiDENIAL 2",
 		"mod_title": "MaggieYoshiDENIAL2",
 		"mod_creator": "Supersecretsoup",
@@ -6462,7 +6462,7 @@
 		"category": "0"
 	},
 	{
-		"id": 211,
+		"id": 9,
 		"folder": "MagYoshi2",
 		"mod_title": "MaggieYoshiDENIAL2",
 		"mod_creator": "Supersecretsoup",
@@ -6480,7 +6480,7 @@
 		"category": "0"
 	},
 	{
-		"id": 210,
+		"id": 8,
 		"folder": "MaggieYoshi Hardmode",
 		"mod_title": "MaggieYoshi HARDMODE",
 		"mod_creator": "Supersecretsoup",
@@ -6498,7 +6498,7 @@
 		"category": "0"
 	},
 	{
-		"id": 209,
+		"id": 7,
 		"folder": "Maggie got REAL HARD 2 (Revengance)",
 		"mod_title": "Maggie got REAL HARD 2 (Revengance)",
 		"mod_creator": "Supersecretsoup",
@@ -6516,7 +6516,7 @@
 		"category": "0"
 	},
 	{
-		"id": 208,
+		"id": 6,
 		"folder": "Lola Bunny (by ImNotFromFBI)",
 		"mod_title": "Lola Bunny",
 		"mod_creator": "ImNotFromFBI",
@@ -6534,7 +6534,7 @@
 		"category": "0"
 	},
 	{
-		"id": 213,
+		"id": 5,
 		"folder": "Toriel x Asriel",
 		"mod_title": "Toriel x Asriel",
 		"mod_creator": "Just Kinda/edited by Cerovitch",
@@ -6552,7 +6552,7 @@
 		"category": "0"
 	},
 	{
-		"id": 214,
+		"id": 4,
 		"folder": "Nicole",
 		"mod_title": "Nicole",
 		"mod_creator": "Poi & ByteTheProto",
@@ -6570,7 +6570,7 @@
 		"category": "0"
 	},
 	{
-		"id": 216,
+		"id": 3,
 		"folder": "Kane Ewing Masturbation",
 		"mod_title": "Kane Ewing Masturbation",
 		"mod_creator": "Yoll",
@@ -6588,7 +6588,7 @@
 		"category": "0"
 	},
 	{
-		"id": 215,
+		"id": 2,
 		"folder": "Compilation 1 - Gay Dragons",
 		"mod_title": "Compilation 1 - Gay Dragons",
 		"mod_creator": "Yoll",
@@ -6604,9 +6604,9 @@
 		"download_type": "discord",
 		"tags": "furry,gay,compilation",
 		"category": "0"
-	},	
+	},
 	{
-		"id": 352,
+		"id": 1,
 		"folder": "Sabre Wulf",
 		"mod_title": "Sabre Wulf",
 		"mod_creator": "-Ky-",
