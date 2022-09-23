@@ -1,5 +1,23 @@
 [
 	{
+		"id": 371,
+		"folder": "DarkyCharaMod - Asgore",
+		"mod_title": "Chara - Asgore Theme",
+		"mod_creator": "El Primo",
+		"mod_artist": "El Primo, DarkyNSFW",
+		"song_artist": "DJ Jo",
+		"song_title": "Asgore",
+		"length": "4:51",
+		"bpm": "115",
+		"preview_imgs": "loop0.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-24",
+		"download_link": "https://cdn.discordapp.com/attachments/1022992764243288064/1022992803170623590/DarkyCharaMod_-_Asgore.zip",
+		"download_type": "discord",
+		"tags": "human,undertale,reskin,rechart",
+		"category": "0"
+	},	
+	{
 		"id": 370,
 		"folder": "DarkyCharaMod",
 		"mod_title": "Vs Chara",
