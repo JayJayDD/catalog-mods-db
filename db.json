@@ -1,5 +1,22 @@
 [
 	{
+		"id": 383,
+		"folder": "Overclocked",
+		"mod_title": "Overclocked",
+		"mod_creator": "Dirty Dan",
+		"mod_artist": "Komdog",
+		"song_artist": "MoxiFloxi",
+		"song_title": "Overclocked",
+		"length": "1:45",
+		"bpm": "127",
+		"preview_imgs": "Prod.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-28",
+		"download_link": "https://mega.nz/folder/IHZgWRoS#vFHTP1BWtmhNx3KS183FXg,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Overclocked.zip",
+		"tags": "android",
+		"category": "0"
+	},	
+	{
 		"id": 382,
 		"folder": "bb_legacy_v1",
 		"mod_title": "Legacy Modpack for 2.x",
