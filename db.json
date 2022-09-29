@@ -1,5 +1,22 @@
 [
 	{
+		"id": 387,
+		"folder": "Ashley - ThePit Tribute",
+		"mod_title": "Ashley",
+		"mod_creator": "Argonot",
+		"mod_artist": "Unnamed",
+		"song_artist": "MoxiFloxi",
+		"song_title": "Overclocked",
+		"length": "1:45",
+		"bpm": "128",
+		"preview_imgs": "ashley.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-09-29",
+		"download_link": "https://mega.nz/file/VRwTxYZZ#_7EIzY2x06_-pTGtalazls5iVVEg0TStw7BVoyKj28Q,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Ashley%20-%20ThePit%20Tribute.rar",
+		"tags": "human,repurposed art,oc",
+		"category": "0"
+	},	
+	{
 		"id": 386,
 		"folder": "Vanilla (Newcro)",
 		"mod_title": "Vanilla (Newcro)",
