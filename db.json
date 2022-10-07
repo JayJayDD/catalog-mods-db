@@ -26,6 +26,7 @@
 		"song_title": "She Swallowed Burning Coals",
 		"length": "9:03",
 		"bpm": "110",
+		"loop_data" : "2,3,6",
 		"preview_imgs": "loop1.png",
 		"thumb_img": "thumb.png",
 		"release_date": "2022-10-07",
