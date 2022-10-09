@@ -1,5 +1,22 @@
 [
 	{
+		"id": 405,
+		"folder": "Sans Undertale",
+		"mod_title": "Sans Undertale",
+		"mod_creator": "Pokemonrater",
+		"mod_artist": "Pokemonrater",
+		"song_artist": "Toby Fox",
+		"song_title": "MEGALOVANIA",
+		"length": "2:36",
+		"bpm": "120",
+		"preview_imgs": "prod.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-10-08",
+		"download_link": "https://cdn.discordapp.com/attachments/1028702361469857793/1028702420328513546/Sans_Undertale.zip,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Sans_Undertale.zip",
+		"tags": "gay,undertale,reskin",
+		"category": "0"
+	},	
+	{
 		"id": 404,
 		"folder": "FnF with extra cum",
 		"mod_title": "Friday Night Fuckin'",
