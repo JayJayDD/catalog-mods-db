@@ -1,5 +1,40 @@
 [
 	{
+		"id": 404,
+		"folder": "FnF with extra cum",
+		"mod_title": "Friday Night Fuckin'",
+		"mod_creator": "S1M0N/LastMinuteName",
+		"mod_artist": "LastMinuteName",
+		"song_artist": "Crystal Waters",
+		"song_title": "On My Mind",
+		"length": "3:25",
+		"bpm": "127",
+		"preview_imgs": "prod.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-10-08",
+		"download_link": "https://cdn.discordapp.com/attachments/1028521212869103646/1028521322730496070/FnF_with_extra_cum.rar,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/FnF_with_extra_cum.rar",
+		"tags": "fnf,reskin,rechart,voicebank",
+		"category": "0"
+	},	
+	{
+		"id": 403,
+		"folder": "FujizakuraHexmaniac",
+		"mod_title": "Fujizakura Hexmaniac",
+		"mod_creator": "TheUnsaid",
+		"mod_artist": "Fujizakura Works",
+		"song_artist": "The Pokemon Company",
+		"song_title": "Battle! Gym Leader Pokemon X&Y",
+		"length": "5:00",
+		"bpm": "150",
+		"loop_data" : "4,2,8",
+		"preview_imgs": "01HexTease.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-10-08",
+		"download_link": "https://drive.google.com/file/d/1LDr1MklvvhGKT9wNUQd_2GbJ_mTrUmN7/view?usp=sharing",
+		"tags": "anime,repurposed art,2.0",
+		"category": "0"
+	},		
+	{
 		"id": 402,
 		"folder": "Nicole - Sub special",
 		"mod_title": "Nicole - Sub Special",
@@ -99,7 +134,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-10-05",
 		"download_link": "https://mega.nz/folder/rdwBhDDD#hpJTdjB4_1WKXoyzwVJn-A,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/SIREN%20MODS.zip",
-		"tags": "demon,orignal art",
+		"tags": "demon,orignal art,S-Tier",
 		"category": "0"
 	},		
 	{
@@ -116,7 +151,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-10-04",
 		"download_link": "https://cdn.discordapp.com/attachments/1026613546106232982/1026806753763016794/Junko_Titfucking_Enoshima.zip,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Junko_Titfucking_Enoshima.zip",
-		"tags": "anime,reskin",
+		"tags": "anime,reskin,S-Tier",
 		"category": "0"
 	},		
 	{
@@ -269,7 +304,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-09-29",
 		"download_link": "https://cdn.discordapp.com/attachments/1024914691870425088/1024914692830937088/Vanilla_Newcro.rar,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Vanilla_Newcro.rar",
-		"tags": "furry,sonic,reskin",
+		"tags": "furry,sonic,reskin,S-Tier",
 		"category": "0"
 	},		
 	{
@@ -545,7 +580,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-09-23",
 		"download_link": "https://cdn.discordapp.com/attachments/1022717708015517796/1022717782523121715/DarkyCharaMod.rar,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/DarkyCharaMod.rar",
-		"tags": "human,undertale,reskin",
+		"tags": "human,undertale,reskin,S-Tier",
 		"category": "0"
 	},
 	{
@@ -562,7 +597,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-09-23",
 		"download_link": "https://cdn.discordapp.com/attachments/1022693115523510272/1022693199845789736/Hex_Maniac.zip,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Hex_Maniac.zip",
-		"tags": "human,pokemon,reskin",
+		"tags": "human,pokemon,reskin,S-Tier",
 		"category": "0"
 	},
 	{
