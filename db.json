@@ -1,5 +1,22 @@
 [
 	{
+		"id": 410,
+		"folder": "Succubus Lav",
+		"mod_title": "Succubus - Laverne",
+		"mod_creator": "JGBM",
+		"mod_artist": "Randumb; JGBM",
+		"song_artist": "NIGHTMAER",
+		"song_title": "Succubus",
+		"length": "2:31",
+		"bpm": "118",
+		"preview_imgs": "loop3.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-10-10",
+		"download_link": "https://cdn.discordapp.com/attachments/1030908375191527515/1030908375971660026/Succubus_Lav.zip,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Succubus_Lav.zip",
+		"tags": "furry, reskin, rechart",
+		"category": "0"
+	},		
+	{
 		"id": 409,
 		"folder": "Harem of the Lamb (by Sad R)",
 		"mod_title": "Harem Of The Lamb",
