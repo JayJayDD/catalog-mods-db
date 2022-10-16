@@ -1,5 +1,23 @@
 [
 	{
+		"id": 411,
+		"folder": "Succubus Lav_2.0",
+		"mod_title": "Succubus - Laverne",
+		"mod_creator": "JGBM",
+		"mod_artist": "Randumb; JGBM",
+		"song_artist": "NIGHTMAER",
+		"song_title": "Succubus",
+		"length": "2:31",
+		"bpm": "118",
+		"loop_data" : "3,2,6",
+		"preview_imgs": "loop3.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-10-15",
+		"download_link": "https://cdn.discordapp.com/attachments/1031028137947054170/1031028140920811550/Succubus_Lav_2.0.zip,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Succubus_Lav_2.0.zip",
+		"tags": "furry,reskin,rechart,2.0",
+		"category": "0"
+	},		
+	{
 		"id": 410,
 		"folder": "Succubus Lav",
 		"mod_title": "Succubus - Laverne",
