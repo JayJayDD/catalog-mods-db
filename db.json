@@ -1,5 +1,40 @@
 [
 	{
+		"id": 413,
+		"folder": "FNF Boom",
+		"mod_title": "FNF Boom",
+		"mod_creator": "El Primo",
+		"mod_artist": "LastMinuteName",
+		"song_artist": "Tiësto & Sevenn",
+		"song_title": "BOOM (MR.BLACK Remix)",
+		"length": "4:00",
+		"bpm": "138",
+		"preview_imgs": "1.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-10-17",
+		"download_link": "https://cdn.discordapp.com/attachments/1031396689866661938/1031396690877493268/FNF_Boom.zip,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/FNF_Boom.zip",
+		"tags": "fnf,rechart,voicebank",
+		"category": "0"
+	},	
+	{
+		"id": 412,
+		"folder": "widescreen tori",
+		"mod_title": "Toriel Widescreen",
+		"mod_creator": "KennyT06",
+		"mod_artist": "Komdog",
+		"song_artist": "Komdog",
+		"song_title": "Goat House",
+		"length": "2:15",
+		"bpm": "128",
+		"loop_data" : "2,3,6",
+		"preview_imgs": "loop0.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-10-16",
+		"download_link": "https://cdn.discordapp.com/attachments/1031061886491439224/1031161618911993876/widescreen_tori.zip,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/widescreen_tori.zip",
+		"tags": "furry,reskin,legacy,2.0",
+		"category": "0"
+	},	
+	{
 		"id": 411,
 		"folder": "Succubus Lav_2.0",
 		"mod_title": "Succubus - Laverne",
@@ -476,7 +511,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-09-28",
 		"download_link": "https://cdn.discordapp.com/attachments/1027244834500644874/1027244836035768330/bb_legacy_v1_33.zip,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/https://cdn.discordapp.com/attachments/1027244834500644874/1027244836035768330/bb_legacy_v1_33.zip",
-		"tags": "furry,gay,rechart,2.0",
+		"tags": "furry,gay,rechart,legacy,2.0",
 		"category": "0"
 	},	
 	{
