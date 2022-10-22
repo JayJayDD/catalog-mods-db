@@ -6,7 +6,7 @@ Actual repo where the catalog fetches the assets and the `db.json` from
 > *How `db.json` is structured?*
 
 ```
-id: <int> - magic key index (unused)
+id: <int> - magic key index
 folder: <string> - mod root folder
 mod_title: <string> - name of the mod
 mod_creator: <string> - chart/mod creator
@@ -15,6 +15,7 @@ song_artist: <string> - mods song artist
 song_title: <string> - mods song title
 length: <string MM:SS> - song's or mod length
 bpm: <int> - bpm of the mod
+loop_data: <int,int,int> - spritesheet format for the preview, if you use it the webapp will assume its a 2.0 mod and will fetch sheets from the 'images' folder instead of 'anims'
 preview_imgs: <string '[name].[extension]'> - image preview name for the mod card
 thumb_img: <string '[name].[extension]'> - mods thumbnail name
 release_date: <string YYYY/MM/DD> - mods original release
