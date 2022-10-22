@@ -1,5 +1,22 @@
 [
 	{
+		"id": 420,
+		"folder": "FNF B Side GF",
+		"mod_title": "GF B Side",
+		"mod_creator": "El Primo",
+		"mod_artist": "El Primo, LastMinuteName",
+		"song_artist": "Dirty Palm",
+		"song_title": "Get Bounced",
+		"length": "2:39",
+		"bpm": "128",
+		"preview_imgs": "1.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-10-22",
+		"download_link": "https://cdn.discordapp.com/attachments/1033248311064412180/1033248312066855003/FNF_B_Side_GF.zip,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/FNF_B_Side_GF.zip",
+		"tags": "fnf,reskin,rechart",
+		"category": "0"
+	},	
+	{
 		"id": 419,
 		"folder": "Michiru Kagemori",
 		"mod_title": "Michiru Kagemori",
