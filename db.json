@@ -1,5 +1,22 @@
 [
 	{
+		"id": 433,
+		"folder": "Loona Suction (A7 Edit)",
+		"mod_title": "Loona Suction (A7 Edit)",
+		"mod_creator": "Decnot",
+		"mod_artist": "Decnot/komdog",
+		"song_artist": "Tokyo Machine",
+		"song_title": "PLAY",
+		"length": "1:49",
+		"bpm": "128",
+		"preview_imgs": "loon3.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-10-28",
+		"download_link": "https://cdn.discordapp.com/attachments/1035368179897208862/1035662239446880326/Loona_Suction_2.0_A7_Edit.rar,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Loona_Suction_2.0_A7_Edit.rar",
+		"tags": "furry,reskin,rechart,helluva boss,2.0",
+		"category": "0"
+	},	
+	{
 		"id": 432,
 		"folder": "Loona Suction (A7 Edit)",
 		"mod_title": "Loona Suction (A7 Edit)",
@@ -12,7 +29,7 @@
 		"preview_imgs": "loon3.png",
 		"thumb_img": "thumb.png",
 		"release_date": "2022-10-28",
-		"download_link": "https://cdn.discordapp.com/attachments/1035345984689025074/1035426780619751444/Friday_Night_Fuckin_-_Skyblue_V2.7z,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Friday_Night_Fuckin_-_Skyblue_V2.7z",
+		"download_link": "https://cdn.discordapp.com/attachments/1035368179897208862/1035368184326397982/Loona_Suction_A7_Edit.rar,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Loona_Suction_A7_Edit.rar",
 		"tags": "furry,reskin,rechart,helluva boss",
 		"category": "0"
 	},	
