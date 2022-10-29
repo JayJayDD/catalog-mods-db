@@ -60,6 +60,7 @@
 		"song_title": "Back It Up",
 		"length": "3:39",
 		"bpm": "128",
+		"loop_data":"3,2,6",
 		"preview_imgs": "01.png",
 		"thumb_img": "thumb.png",
 		"release_date": "2022-10-28",
