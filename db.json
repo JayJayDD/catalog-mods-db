@@ -1,5 +1,22 @@
 [	
 	{
+		"id": 441,
+		"folder": "Protoype Trouble",
+		"mod_title": "Nina",
+		"mod_creator": "Randumb & DoodleSurface",
+		"mod_artist": "Randumb",
+		"song_artist": "Infected Mushroom",
+		"song_title": "Kababies",
+		"length": "1:49",
+		"bpm": "138",
+		"preview_imgs": "3.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-11-01",
+		"download_link": "https://cdn.discordapp.com/attachments/1036822462995898388/1036822536048099408/02_Spooky_Chimera.zip,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/02_Spooky_Chimera.zip",
+		"tags": "furry,reskin",
+		"category": "0"
+	},	
+	{
 		"id": 440,
 		"folder": "Protoype Trouble",
 		"mod_title": "Prototype Trouble",
