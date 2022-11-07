@@ -1,5 +1,23 @@
 [
 	{
+		"id": 451,
+		"folder": "Polt - ROCK IT 2.641",
+		"mod_title": "Polt - ROCK IT 2.641",
+		"mod_creator": "AlexVII",
+		"mod_artist": "El Primo, DarkyNSFW",
+		"song_artist": "pantarhei, seraziel",
+		"song_title": "ROCK IT",
+		"length": "2:11",
+		"bpm": "128",
+		"loop_data": "6,5,30",
+		"preview_imgs": "polt01.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-11-08",
+		"download_link": "https://cdn.discordapp.com/attachments/1039070647290187806/1039070728387043411/Darky_Chara_Groove_edit.rar,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Darky_Chara_Groove_edit.rar",
+		"tags": "furry,repurposed art",
+		"category": "0"
+	},	
+	{
 		"id": 450,
 		"folder": "Darky Chara (Groove edit)",
 		"mod_title": "Darky Chara (Groove edit)",
@@ -11,7 +29,7 @@
 		"bpm": "128",
 		"preview_imgs": "loop0.png",
 		"thumb_img": "thumb.png",
-		"release_date": "2022-09-24",
+		"release_date": "2022-11-07",
 		"download_link": "https://cdn.discordapp.com/attachments/1039070647290187806/1039070728387043411/Darky_Chara_Groove_edit.rar,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Darky_Chara_Groove_edit.rar",
 		"tags": "human,undertale,reskin,rechart",
 		"category": "0"
