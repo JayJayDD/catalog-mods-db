@@ -1,5 +1,40 @@
 [
 	{
+		"id": 454,
+		"folder": "Toriel BJ Audio",
+		"mod_title": "Toriel BJ SFX Only",
+		"mod_creator": "TBKUN",
+		"mod_artist": "Komdog",
+		"song_artist": "Tokyo Machine",
+		"song_title": "PLAY",
+		"length": "1:49",
+		"bpm": "128",
+		"preview_imgs": "face_prod.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-11-10",
+		"download_link": "https://cdn.discordapp.com/attachments/1040296859249414165/1040319573855055922/Toriel_.rar,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Toriel_.rar",
+		"tags": "furry,reskin,rechart,immersive audio,voicebank",
+		"category": "0"
+	},	
+	{
+		"id": 453,
+		"folder": "Fuko_x_Desgracia",
+		"mod_title": "Fuko x Desgracia",
+		"mod_creator": "SucculentHampire",
+		"mod_artist": "see is see/evenesko.d.fox",
+		"song_artist": "Paradelous",
+		"song_title": "Power Slam",
+		"length": "2:28",
+		"bpm": "146",
+		"loop_data": "5,2,10",
+		"preview_imgs": "p2fd.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-11-10",
+		"download_link": "https://cdn.discordapp.com/attachments/1040100496330993684/1040100497908056094/Fuko_x_Desgracia.zip,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Fuko_x_Desgracia.zip",
+		"tags": "furry,repurposed art,2.641",
+		"category": "0"
+	},	
+	{
 		"id": 452,
 		"folder": "Twilight Velvet x Changeling (KanashiiPanda)",
 		"mod_title": "Twilight Velvet x Changeling",
@@ -31,7 +66,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-11-08",
 		"download_link": "https://cdn.discordapp.com/attachments/1039132041524031498/1039289270030061668/Polt_-_ROCK_IT_2.641.rar,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Polt_-_ROCK_IT_2.641.rar",
-		"tags": "furry,repurposed art,2.641",
+		"tags": "furry,repurposed art, 2.641",
 		"category": "0"
 	},	
 	{
