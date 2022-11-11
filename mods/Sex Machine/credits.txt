@@ -1,8 +1,0 @@
-[CREDITS]
-mod_title = "Sex Machine 1.0"
-mod_creator : "Ruka"
-song_artist = "Qumu"
-song_title = "F-Zero - Big Blue Remix"
-Art : Uramomo from the game "Sex Machine" by TheUnsaid
-Background Art: "unfavoriteloser"
-SFX : Originally from KomDog's mod

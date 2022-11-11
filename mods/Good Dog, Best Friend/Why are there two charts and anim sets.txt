@@ -1,7 +1,0 @@
-There are two charts and anim sets that put the dialogue box at the upper left and upper right corner. I'm an idiot who forgot the health bar and upper left UI.
-
-In my opinion, I kinda flubbed some of the right-corner dialogue boxes in moving them, so there's a touch of jitter in some loops, but it shouldn't be too bad.
-
-rename chart - left to just chart.cfg if you use handsfree mode or don't particularly care about the dialogue box, and use the right chart if you want to play it while also reading the text (which is impressive)
-
-There are no other differences besides this placement, to the best of my knowledge, or if there are, they're off by pixels.

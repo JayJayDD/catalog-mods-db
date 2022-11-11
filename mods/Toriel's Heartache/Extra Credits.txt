@@ -1,8 +1,0 @@
-Aside from KomDog's art, there are some modders who I want to give credit to. However, since so many mod assets have been recycled across however many mods, it's difficult to pin down the original creators. So I'd like to list their work that I used and thank them.
--Toriel animations for fellatio
--Toriel animations for from behind sex
-
-I did some minor audio tweaks to some existing sfx. "slap-muffled.ogg" is a new one that I edited together as well in a quick attempt to simulate pounding into fabric.
-I did some animation tweaks to improve consistency in the resources I borrowed to be used together.
-
-The high quality rip used for the song was done by Sonicheroesfan1 for SiIvaGunner.

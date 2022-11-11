@@ -1,6 +1,0 @@
-[CREDITS]
-mod_title = "Succubus1.0"
-mod_creator : "Ruka"
-Song : "Morrigan Aensland Theme" - CAPCOM
-Art : Succubus Farm - Dieselmine
-SFX : Originally from KomDog's mod
