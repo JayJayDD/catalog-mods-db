@@ -1,5 +1,22 @@
 [
 	{
+		"id": 455,
+		"folder": "Foursome Fracture",
+		"mod_title": "Foursome Fracture",
+		"mod_creator": "JO",
+		"mod_artist": "Komdog",
+		"song_artist": "Nominal Dingus",
+		"song_title": "Fourway Fracture",
+		"length": "10:47",
+		"bpm": "148",
+		"preview_imgs": "Judy1.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-11-11",
+		"download_link": "https://cdn.discordapp.com/attachments/1040470346408661064/1040470348010885120/Foursome_Fracture.zip,https://github.com/JayJayDD/bb-new-mods-dump/raw/main/Foursome_Fracture.zip",
+		"tags": "furry,reskin,rechart",
+		"category": "0"
+	},		
+	{
 		"id": 454,
 		"folder": "Toriel BJ Audio",
 		"mod_title": "Toriel BJ SFX Only",
