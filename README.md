@@ -1,7 +1,7 @@
 # catalog-mods-db
 > *What is this?*
 
-Actual repo where the catalog fetches the assets and the `db.json` from
+Actual repo where the catalog fetches the the `db.json` from
 
 > *How `db.json` is structured?*
 
