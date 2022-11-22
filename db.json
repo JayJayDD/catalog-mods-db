@@ -1,6 +1,6 @@
 [
     {
-       	"id": 487,
+       	"id": 488,
 		"folder": "Tineola Fuck Fest",
 		"mod_title": "Tineola Fuck Fest",
 		"mod_creator": "Tineola",
@@ -17,7 +17,7 @@
 		"category": "0"
 	},
     {
-   		"id": 486,
+   		"id": 487,
 		"folder": "01_legacy_judy_big_booba",
 		"mod_title": "Judy - Legacy(Big Booba)",
 		"mod_creator": "Blyadman/JustKinda",
@@ -32,6 +32,24 @@
 		"release_date": "2022-11-21",
 		"download_link": "https://cdn.discordapp.com/attachments/1044457331167072256/1044457331968196608/01_legacy_judy_big_booba.zip,https://github.com/JayJayDD/catalog-new-mods-dump/blob/main/01_legacy_judy_big_booba.zip",
 		"tags": "furry,reskin,conversion,2.641",
+		"category": "0"
+	},
+    {
+       	"id": 486,
+		"folder": "Please Don't Fuck Me, Nagatoro!_2.0",
+		"mod_title": "Please Don't Fuck Me, Nagatoro!",
+		"mod_creator": "Blyadman/El Primo",
+		"mod_artist": "El Primo",
+		"song_artist": "Beast",
+		"song_title": "Cati",
+		"length": "2:39",
+		"loop_data": "3,2,6",
+		"bpm": "128",
+		"preview_imgs": "loop1.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-11-21",
+		"download_link": "https://cdn.discordapp.com/attachments/1044445788614434967/1044519156432777276/Please_Dont_Fuck_Me_Nagatoro_2.0.zip,https://github.com/JayJayDD/catalog-new-mods-dump/blob/main/Please_Dont_Fuck_Me_Nagatoro_2.0.zip",
+		"tags": "anime,human,reskin,conversion",
 		"category": "0"
 	},
     {
