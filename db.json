@@ -67,6 +67,23 @@
 		"download_link": "https://cdn.discordapp.com/attachments/1046723465572524052/1046723557138382908/big_bird.zip,https://github.com/JayJayDD/catalog-new-mods-dump/raw/main/big_bird.zip",
 		"tags": "furry,reskin,2.641",
 		"category": "0"
+	},
+	{
+		"id": 509,
+		"folder": "wild mew 1.x",
+		"mod_title": "Wild Mew",
+		"mod_creator": "ced & randomced",
+		"mod_artist": "randomced",
+		"song_artist": "Pokémon Sword & Shield OST",
+		"song_title": "Gym Leader Battle ",
+		"length": "2:50",
+		"bpm": "128",
+		"preview_imgs": "image1.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-11-27",
+		"download_link": "https://cdn.discordapp.com/attachments/1046694604407324703/1046694708430241792/wild_mew_1.x.rar,https://github.com/JayJayDD/catalog-new-mods-dump/raw/main/wild_mew_1.x.rar",
+		"tags": "furry,reskin,pokemon,conversion",
+		"category": "0"
 	},	
 	{
 		"id": 510,
@@ -288,7 +305,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-11-23",
 		"download_link": "https://cdn.discordapp.com/attachments/1045070825100947477/1045070825780412506/FNF_Girl_Sock.Clip_2.0.zip,https://github.com/JayJayDD/catalog-new-mods-dump/raw/main/FNF_Girl_Sock.Clip_2.0.zip",
-		"tags": "fnf,reskin,oc,2.641",
+		"tags": "fnf,reskin,oc,rechart,2.641",
 		"category": "0"
 	}, 
     {
@@ -549,7 +566,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-11-21",
 		"download_link": "https://cdn.discordapp.com/attachments/1044167948757119036/1044171492352594021/Succubus_-_Himiko_Toga.zip,https://github.com/JayJayDD/catalog-new-mods-dump/raw/main/Succubus_-_Himiko_Toga.zip",
-		"tags": "anime,human,reskin",
+		"tags": "anime,human,reskin,S-Tier",
 		"category": "0"
 	},
 	{
@@ -600,7 +617,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-11-20",
 		"download_link": "https://www.mediafire.com/file/7t8vdjmoybvvpej/Holartyuio%2527s_Sarvente_Mod.zip/file,https://github.com/JayJayDD/catalog-new-mods-dump/raw/main/Holartyuios Sarvente Mod.zip",
-		"tags": "fnf,reskin",
+		"tags": "fnf,reskin,S-Tier",
 		"category": "0"
 	},	
 	{
@@ -617,7 +634,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-11-19",
 		"download_link": "https://cdn.discordapp.com/attachments/1043648268770496542/1043648269475123310/FNF_Skyblue_-_Baby.zip,https://github.com/JayJayDD/catalog-new-mods-dump/raw/main/FNF_Skyblue_-_Baby.zip",
-		"tags": "fnf,reskin,rechart,dialogue",
+		"tags": "fnf,reskin,rechart,dialogue,S-Tier",
 		"category": "0"
 	},		
 	{
@@ -808,7 +825,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-11-14",
 		"download_link": "https://cdn.discordapp.com/attachments/1041685047339646987/1041685048757321748/chara_pops_off.rar,https://github.com/JayJayDD/catalog-new-mods-dump/raw/main/chara_pops_off.rar",
-		"tags": "reskin,furry,rechart,multiple characters,human,dialogue,voicebank",
+		"tags": "reskin,furry,rechart,multiple characters,human,dialogue,voicebank,S-Tier",
 		"category": "0"
 	},	
 	{
@@ -963,7 +980,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-11-12",
 		"download_link": "https://cdn.discordapp.com/attachments/1041049594223673424/1041049698657648810/Friday_Night_Fuckin_-_Girlfriend_Boobjob.zip,https://github.com/JayJayDD/catalog-new-mods-dump/raw/main/Friday_Night_Fuckin_-_Girlfriend_Boobjob.zip",
-		"tags": "human,reskin,fnf",
+		"tags": "human,reskin,fnf,S-Tier",
 		"category": "0"
 	},	
 	{
@@ -1431,7 +1448,7 @@
 		"thumb_img": "thumb.png",
 		"release_date": "2022-10-28",
 		"download_link": "https://cdn.discordapp.com/attachments/1035345984689025074/1035426780619751444/Friday_Night_Fuckin_SkyBlue.zip,https://github.com/JayJayDD/catalog-new-mods-dump/raw/main/Friday_Night_Fuckin_SkyBlue.zip",
-		"tags": "fnf,reskin,oc",
+		"tags": "fnf,reskin,oc,S-Tier",
 		"category": "0"
 	},	
 	{
