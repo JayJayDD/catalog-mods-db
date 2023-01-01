@@ -1,5 +1,37 @@
 [		
 	{
+		"id": 584,
+		"folder": "Toriel Getting Very Frisky",
+		"mod_title": "Toriel Getting Very Frisky",
+		"mod_creator": "UnknownUsername Here",
+		"mod_artist": "KomDog, Penguinologist,Just Kinda,Various",
+		"song_artist": "Chester Young and Castion",
+		"song_title": "Pyro",
+		"length": "2:28",
+		"bpm": "128",
+		"preview_imgs": "5bounce_hard.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-12-30",
+		"download_link": "https://cdn.discordapp.com/attachments/1058298368666906634/1058301231661076550/Toriel_Getting_Very_Frisky.zip,https://github.com/JayJayDD/catalog-new-mods-dump/raw/main/Toriel_Getting_Very_Frisky.zip",
+		"tags": "furry,undertale,reskin,rechart,voicebank",
+		"category": "0"
+	},	{
+		"id": 583,
+		"folder": "Toriel Getting Frisky",
+		"mod_title": "Toriel Getting Frisky",
+		"mod_creator": "UnknownUsername Here",
+		"mod_artist": "KomDog, Penguinologist,Just Kinda,Various",
+		"song_artist": "Chester Young and Castion",
+		"song_title": "Pyro",
+		"length": "2:28",
+		"bpm": "128",
+		"preview_imgs": "00eyesup.png",
+		"thumb_img": "thumb.png",
+		"release_date": "2022-12-30",
+		"download_link": "https://cdn.discordapp.com/attachments/1058298368666906634/1058298369375748096/Toriel_Getting_Frisky.zip,https://github.com/JayJayDD/catalog-new-mods-dump/raw/main/Toriel_Getting_Frisky.zip",
+		"tags": "furry,undertale,reskin,rechart,voicebank",
+		"category": "0"
+	},	{
 		"id": 582,
 		"folder": "FNF Compilation",
 		"mod_title": "FNF Compilation",
